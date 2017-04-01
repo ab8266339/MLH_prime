@@ -34,8 +34,7 @@ def get_is_valid_div(raw_meta):
 def parse_reliability(raw_meta):
 
     # r_str : 25 out of 27 people found the following revi
-    print ("raw_meta: ", raw_meta)
-    print("--------------")
+    #print("--------------")
     try:
         r_str = re.findall(r'<small>([0-9]+) out of ([0-9]+) people found',raw_meta)[0]
         people_trust_num = int(r_str[0])
@@ -47,7 +46,7 @@ def parse_reliability(raw_meta):
         reliability = 0
     return reliability
 
-
+#{'tt0087544', 'tt0056687', 'tt0056801'}
 
 def parse_loc(raw_meta):
 
@@ -81,20 +80,44 @@ def write_to_file(review_dict, file_name):
 
 def read_start_url():
     parent_path = get_upper_folder_path(5)
-    #file_
-    #with open()
+    file_name = 'imdb_top250_id.txt'
+    file_path = os.path.join(parent_path, 'data', file_name)
+    meta_folder = os.path.join(parent_path, 'data', 'meta')
+    meta_file_list = os.listdir(meta_folder)
+    start_urls = []
+    for file_name in meta_file_list:
+        #print ("file_name", file_name)
+        id = re.findall(r'_(tt[0-9]+)_', file_name)[0]
+        review_count = re.findall(r'_\[r\]([0-9]+)_', file_name)[0]
+        url = "http://www.imdb.com/title/{}/reviews?count={}&start=0".format(id, review_count)
+        start_urls.append(url)
 
+    return start_urls
 
 #=======================================================================================================================
 
 
 class Imdb_Review_Spider(CrawlSpider):
     name = "review"
-    start_urls = ["http://www.imdb.com/title/tt0092263/reviews?count=92&start=0"]
+    start_urls_temp = read_start_url()
 
+    start_urls = start_urls_temp
+    #start_urls = ['http://www.imdb.com/title/tt0056801/reviews?count=225&start=0']
+    print ("start_urls: ", start_urls)
 
     def parse(self,response):
         title = response.xpath("//a[@class = 'main']/text()").extract()[0]
+        title = title.replace(r':','-')
+        title = title.replace(r'<', '')
+        title = title.replace(r'>', '')
+        title = title.replace(r'>', '')
+        title = title.replace(r'"', '')
+        title = title.replace(r'\/', '')
+        title = title.replace(r'\\', '')
+        title = title.replace(r'\|', '')
+        title = title.replace(r'?', '')
+        title = title.replace(r'*', '')
+        #print ("title: ", title)
         review_dict = collections.defaultdict(lambda: collections.defaultdict(lambda:0))
         review_count = 0
         # parse review content and meta=================================================================================
