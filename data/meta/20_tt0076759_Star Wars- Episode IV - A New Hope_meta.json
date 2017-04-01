@@ -1,0 +1,29 @@
+{
+    "rating": 8.7,
+    "stars": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+    ],
+    "budget": "11000000",
+    "run_time": "121",
+    "writer": [
+        "George Lucas"
+    ],
+    "director": "George Lucas",
+    "rank": "20",
+    "gross": "460935665",
+    "reviews_count": "1504",
+    "film_name": "Star Wars- Episode IV - A New Hope",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "id": "tt0076759",
+    "rating_count": 968261,
+    "filming_loc": "Cardington Airship Hangars, Bedfordshire, England, UK",
+    "language": "English"
+}

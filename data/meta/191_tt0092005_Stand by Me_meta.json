@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Wil Wheaton",
+        "River Phoenix",
+        "Corey Feldman"
+    ],
+    "budget": "8000000",
+    "run_time": "89",
+    "writer": [
+        "Stephen King",
+        "Raynold Gideon"
+    ],
+    "director": "Rob Reiner",
+    "rank": "191",
+    "gross": "52287414",
+    "reviews_count": "596",
+    "film_name": "Stand by Me",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Drama"
+    ],
+    "id": "tt0092005",
+    "rating_count": 287622,
+    "filming_loc": "419 N Main St, Brownsville, Oregon, USA",
+    "language": "English"
+}

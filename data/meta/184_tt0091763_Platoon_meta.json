@@ -1,0 +1,27 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Charlie Sheen",
+        "Tom Berenger",
+        "Willem Dafoe"
+    ],
+    "budget": "6000000",
+    "run_time": "120",
+    "writer": [
+        "Oliver Stone"
+    ],
+    "director": "Oliver Stone",
+    "rank": "184",
+    "gross": "137963328",
+    "reviews_count": "518",
+    "film_name": "Platoon",
+    "country": "UK|USA",
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "id": "tt0091763",
+    "rating_count": 307158,
+    "filming_loc": "Luzon, Philippines",
+    "language": "English|Vietnamese"
+}

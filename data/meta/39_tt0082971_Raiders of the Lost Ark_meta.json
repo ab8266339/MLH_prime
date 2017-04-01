@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman"
+    ],
+    "budget": "18000000",
+    "run_time": "115",
+    "writer": [
+        "Lawrence Kasdan",
+        "George Lucas"
+    ],
+    "director": "Steven Spielberg",
+    "rank": "39",
+    "gross": "242374454",
+    "reviews_count": "787",
+    "film_name": "Raiders of the Lost Ark",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "id": "tt0082971",
+    "rating_count": 698308,
+    "filming_loc": "Yuma, Arizona, USA",
+    "language": "English|German|Hebrew|Spanish|Arabic|Nepali"
+}

@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Paul Newman",
+        "Robert Redford",
+        "Robert Shaw"
+    ],
+    "budget": "5500000",
+    "run_time": "129",
+    "writer": [
+        "David S. Ward"
+    ],
+    "director": "George Roy Hill",
+    "rank": "92",
+    "gross": "159600000",
+    "reviews_count": "261",
+    "film_name": "The Sting",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0070735",
+    "rating_count": 186060,
+    "filming_loc": "Hugus Alley, Pasadena, California, USA",
+    "language": "English"
+}

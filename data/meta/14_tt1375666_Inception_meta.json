@@ -1,0 +1,29 @@
+{
+    "rating": 8.8,
+    "stars": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ellen Page"
+    ],
+    "budget": "160000000",
+    "run_time": "148",
+    "writer": [
+        "Christopher Nolan"
+    ],
+    "director": "Christopher Nolan",
+    "rank": "14",
+    "gross": "292568851",
+    "reviews_count": "2868",
+    "film_name": "Inception",
+    "country": "USA|UK",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt1375666",
+    "rating_count": 1565238,
+    "filming_loc": "Bedfordshire, England, UK",
+    "language": "English|Japanese|French"
+}

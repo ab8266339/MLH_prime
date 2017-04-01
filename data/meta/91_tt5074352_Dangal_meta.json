@@ -1,0 +1,30 @@
+{
+    "rating": 8.9,
+    "stars": [
+        "Aamir Khan",
+        "Sakshi Tanwar",
+        "Fatima Sana Shaikh"
+    ],
+    "budget": "900000000",
+    "run_time": "161",
+    "writer": [
+        "Piyush Gupta",
+        "Shreyas Jain"
+    ],
+    "director": "Nitesh Tiwari",
+    "rank": "91",
+    "gross": "11151900",
+    "reviews_count": "204",
+    "film_name": "Dangal",
+    "country": "India",
+    "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "Sport"
+    ],
+    "id": "tt5074352",
+    "rating_count": 41195,
+    "filming_loc": "Ludhiana, Punjab, India",
+    "language": "Hindi"
+}

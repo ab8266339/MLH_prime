@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Sener Sen",
+        "Ugur Y\u00fccel",
+        "Sermin H\u00fcrmeri\u00e7"
+    ],
+    "budget": null,
+    "run_time": "128",
+    "writer": [
+        "Yavuz Turgul"
+    ],
+    "director": "Yavuz Turgul",
+    "rank": "155",
+    "gross": null,
+    "reviews_count": "37",
+    "film_name": "The Bandit",
+    "country": "Turkey|France|Bulgaria",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0116231",
+    "rating_count": 39829,
+    "filming_loc": "Istanbul, Turkey",
+    "language": "Turkish"
+}

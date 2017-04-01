@@ -1,0 +1,30 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Anupam Kher",
+        "Naseeruddin Shah",
+        "Jimmy Shergill"
+    ],
+    "budget": null,
+    "run_time": null,
+    "writer": [
+        "Neeraj Pandey",
+        "Neeraj Pandey"
+    ],
+    "director": "Neeraj Pandey",
+    "rank": "160",
+    "gross": null,
+    "reviews_count": "112",
+    "film_name": "A Wednesday",
+    "country": "India",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt1280558",
+    "rating_count": 49804,
+    "filming_loc": "Mumbai, India",
+    "language": "Hindi|English"
+}

@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Spencer Tracy",
+        "Burt Lancaster",
+        "Richard Widmark"
+    ],
+    "budget": null,
+    "run_time": "186",
+    "writer": [
+        "Abby Mann",
+        "Abby Mann"
+    ],
+    "director": "Stanley Kramer",
+    "rank": "145",
+    "gross": null,
+    "reviews_count": "179",
+    "film_name": "Judgment at Nuremberg",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "id": "tt0055031",
+    "rating_count": 48074,
+    "filming_loc": "Tower of London, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",
+    "language": "English|German"
+}

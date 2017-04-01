@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Jim Carrey",
+        "Ed Harris",
+        "Laura Linney"
+    ],
+    "budget": "60000000",
+    "run_time": "103",
+    "writer": [
+        "Andrew Niccol"
+    ],
+    "director": "Peter Weir",
+    "rank": "214",
+    "gross": "125603360",
+    "reviews_count": "932",
+    "film_name": "The Truman Show",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "id": "tt0120382",
+    "rating_count": 711917,
+    "filming_loc": "Falls Lake, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",
+    "language": "English"
+}

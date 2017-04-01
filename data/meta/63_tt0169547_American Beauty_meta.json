@@ -1,0 +1,27 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Kevin Spacey",
+        "Annette Bening",
+        "Thora Birch"
+    ],
+    "budget": "15000000",
+    "run_time": "122",
+    "writer": [
+        "Alan Ball"
+    ],
+    "director": "Sam Mendes",
+    "rank": "63",
+    "gross": "130058047",
+    "reviews_count": "2740",
+    "film_name": "American Beauty",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "id": "tt0169547",
+    "rating_count": 868580,
+    "filming_loc": "11388 Homedale Street, Brentwood, Los Angeles, California, USA",
+    "language": "English"
+}

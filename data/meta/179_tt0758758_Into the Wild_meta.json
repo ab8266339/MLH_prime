@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Emile Hirsch",
+        "Vince Vaughn",
+        "Catherine Keener"
+    ],
+    "budget": "15000000",
+    "run_time": "148",
+    "writer": [
+        "Sean Penn",
+        "Jon Krakauer"
+    ],
+    "director": "Sean Penn",
+    "rank": "179",
+    "gross": "18352454",
+    "reviews_count": "772",
+    "film_name": "Into the Wild",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+    ],
+    "id": "tt0758758",
+    "rating_count": 454291,
+    "filming_loc": "Anchorage, Alaska, USA",
+    "language": "English|Danish"
+}

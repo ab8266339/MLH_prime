@@ -1,0 +1,30 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Clark Gable",
+        "Vivien Leigh",
+        "Thomas Mitchell"
+    ],
+    "budget": "3977000",
+    "run_time": "238",
+    "writer": [
+        "Margaret Mitchell",
+        "Sidney Howard"
+    ],
+    "director": "Victor Fleming",
+    "rank": "166",
+    "gross": "198655278",
+    "reviews_count": "717",
+    "film_name": "Gone with the Wind",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "History",
+        "Romance",
+        "War"
+    ],
+    "id": "tt0031381",
+    "rating_count": 227155,
+    "filming_loc": "The Old Mill Park, Little Rock, Arkansas, USA",
+    "language": "English"
+}

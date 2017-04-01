@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Humphrey Bogart",
+        "Walter Huston",
+        "Tim Holt"
+    ],
+    "budget": null,
+    "run_time": "126",
+    "writer": [
+        "John Huston",
+        "B. Traven"
+    ],
+    "director": "John Huston",
+    "rank": "118",
+    "gross": null,
+    "reviews_count": "225",
+    "film_name": "The Treasure of the Sierra Madre",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+    ],
+    "id": "tt0040897",
+    "rating_count": 83684,
+    "filming_loc": "Tucson, Arizona, USA",
+    "language": "English|Spanish"
+}

@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "William H. Macy",
+        "Frances McDormand",
+        "Steve Buscemi"
+    ],
+    "budget": "7000000",
+    "run_time": "98",
+    "writer": [
+        "Ethan Coen",
+        "Joel Coen"
+    ],
+    "director": "Joel Coen",
+    "rank": "164",
+    "gross": "25882374",
+    "reviews_count": "835",
+    "film_name": "Fargo",
+    "country": "USA|UK",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0116282",
+    "rating_count": 481919,
+    "filming_loc": "Chanhassen Dinner Theatre, Chanhassen, Minnesota, USA",
+    "language": "English"
+}

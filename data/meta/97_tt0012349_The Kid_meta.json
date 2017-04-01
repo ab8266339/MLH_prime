@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Charles Chaplin",
+        "Edna Purviance",
+        "Jackie Coogan"
+    ],
+    "budget": "250000",
+    "run_time": "68",
+    "writer": [
+        "Charles Chaplin"
+    ],
+    "director": "Charles Chaplin",
+    "rank": "97",
+    "gross": "2500000",
+    "reviews_count": "120",
+    "film_name": "The Kid",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "id": "tt0012349",
+    "rating_count": 74105,
+    "filming_loc": "Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA",
+    "language": "English"
+}

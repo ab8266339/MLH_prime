@@ -1,0 +1,30 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Daveigh Chase",
+        "Suzanne Pleshette",
+        "Miyu Irino"
+    ],
+    "budget": "19000000",
+    "run_time": "125",
+    "writer": [
+        "Hayao Miyazaki"
+    ],
+    "director": "Hayao Miyazaki",
+    "rank": "28",
+    "gross": "10049886",
+    "reviews_count": "920",
+    "film_name": "Spirited Away",
+    "country": "Japan",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Mystery"
+    ],
+    "id": "tt0245429",
+    "rating_count": 452288,
+    "filming_loc": null,
+    "language": "Japanese"
+}

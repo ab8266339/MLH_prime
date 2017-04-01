@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Tom Wilkinson"
+    ],
+    "budget": "20000000",
+    "run_time": "108",
+    "writer": [
+        "Charlie Kaufman",
+        "Michel Gondry"
+    ],
+    "director": "Michel Gondry",
+    "rank": "86",
+    "gross": "34126138",
+    "reviews_count": "1538",
+    "film_name": "Eternal Sunshine of the Spotless Mind",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+    ],
+    "id": "tt0338013",
+    "rating_count": 709134,
+    "filming_loc": "123 Valentine Lane, Yonkers, New York, USA",
+    "language": "English"
+}

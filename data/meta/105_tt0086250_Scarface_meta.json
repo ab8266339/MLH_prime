@@ -1,0 +1,27 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Al Pacino",
+        "Michelle Pfeiffer",
+        "Steven Bauer"
+    ],
+    "budget": "25000000",
+    "run_time": "170",
+    "writer": [
+        "Oliver Stone"
+    ],
+    "director": "Brian De Palma",
+    "rank": "105",
+    "gross": "44700000",
+    "reviews_count": "863",
+    "film_name": "Scarface",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0086250",
+    "rating_count": 569723,
+    "filming_loc": "485 West Matheson Drive, Key Biscayne, Florida, USA",
+    "language": "English|Spanish"
+}

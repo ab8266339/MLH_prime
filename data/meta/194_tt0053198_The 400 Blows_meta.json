@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Jean-Pierre L\u00e9aud",
+        "Albert R\u00e9my",
+        "Claire Maurier"
+    ],
+    "budget": null,
+    "run_time": "99",
+    "writer": [
+        "Fran\u00e7ois Truffaut",
+        "Marcel Moussy"
+    ],
+    "director": "Fran\u00e7ois Truffaut",
+    "rank": "194",
+    "gross": null,
+    "reviews_count": "179",
+    "film_name": "The 400 Blows",
+    "country": "France",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0053198",
+    "rating_count": 74816,
+    "filming_loc": "Avenue Frochot, Paris 9, Paris, France",
+    "language": "French|English"
+}

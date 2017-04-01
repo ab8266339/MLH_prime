@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Marlon Brando",
+        "Karl Malden",
+        "Lee J. Cobb"
+    ],
+    "budget": "910000",
+    "run_time": "108",
+    "writer": [
+        "Budd Schulberg",
+        "Budd Schulberg"
+    ],
+    "director": "Elia Kazan",
+    "rank": "135",
+    "gross": "9600000",
+    "reviews_count": "291",
+    "film_name": "On the Waterfront",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0047296",
+    "rating_count": 107231,
+    "filming_loc": "Court Street, Hoboken, New Jersey, USA",
+    "language": "English"
+}

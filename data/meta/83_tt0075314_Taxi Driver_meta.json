@@ -1,0 +1,27 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd"
+    ],
+    "budget": null,
+    "run_time": "113",
+    "writer": [
+        "Paul Schrader"
+    ],
+    "director": "Martin Scorsese",
+    "rank": "83",
+    "gross": null,
+    "reviews_count": "901",
+    "film_name": "Taxi Driver",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0075314",
+    "rating_count": 540470,
+    "filming_loc": "Manhattan, New York City, New York, USA",
+    "language": "English|Spanish"
+}

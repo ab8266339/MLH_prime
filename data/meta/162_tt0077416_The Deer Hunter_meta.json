@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Robert De Niro",
+        "Christopher Walken",
+        "John Cazale"
+    ],
+    "budget": null,
+    "run_time": "183",
+    "writer": [
+        "Michael Cimino",
+        "Deric Washburn"
+    ],
+    "director": "Michael Cimino",
+    "rank": "162",
+    "gross": null,
+    "reviews_count": "1049",
+    "film_name": "The Deer Hunter",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "id": "tt0077416",
+    "rating_count": 245646,
+    "filming_loc": "Mingo Junction, Ohio, USA",
+    "language": "English|Russian|Vietnamese|French"
+}

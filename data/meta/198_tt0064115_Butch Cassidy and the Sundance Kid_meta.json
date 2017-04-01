@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Paul Newman",
+        "Robert Redford",
+        "Katharine Ross"
+    ],
+    "budget": "6000000",
+    "run_time": "110",
+    "writer": [
+        "William Goldman"
+    ],
+    "director": "George Roy Hill",
+    "rank": "198",
+    "gross": "102308900",
+    "reviews_count": "321",
+    "film_name": "Butch Cassidy and the Sundance Kid",
+    "country": "USA",
+    "genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "Western"
+    ],
+    "id": "tt0064115",
+    "rating_count": 160778,
+    "filming_loc": "Lake Sherwood, California, USA",
+    "language": "English|Spanish"
+}

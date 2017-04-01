@@ -1,0 +1,30 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Ajay Devgn",
+        "Shriya Saran",
+        "Tabu"
+    ],
+    "budget": null,
+    "run_time": "163",
+    "writer": [
+        "Jeethu Joseph",
+        "Upendra Sidhaye"
+    ],
+    "director": "Nishikant Kamat",
+    "rank": "240",
+    "gross": null,
+    "reviews_count": "152",
+    "film_name": "Drishyam",
+    "country": "India",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt4430212",
+    "rating_count": 38246,
+    "filming_loc": null,
+    "language": "Hindi"
+}

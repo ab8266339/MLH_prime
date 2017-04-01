@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Cary Elwes",
+        "Mandy Patinkin",
+        "Robin Wright"
+    ],
+    "budget": "16000000",
+    "run_time": "98",
+    "writer": [
+        "William Goldman",
+        "William Goldman"
+    ],
+    "director": "Rob Reiner",
+    "rank": "209",
+    "gross": "30857814",
+    "reviews_count": "729",
+    "film_name": "The Princess Bride",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Romance"
+    ],
+    "id": "tt0093779",
+    "rating_count": 310214,
+    "filming_loc": "Penshurst Place, Penshurst, Kent, England, UK",
+    "language": "English"
+}

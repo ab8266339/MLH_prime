@@ -1,0 +1,27 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Clint Eastwood",
+        "Bee Vang",
+        "Christopher Carley"
+    ],
+    "budget": "33000000",
+    "run_time": "116",
+    "writer": [
+        "Nick Schenk",
+        "Dave Johannson"
+    ],
+    "director": "Clint Eastwood",
+    "rank": "158",
+    "gross": "148085755",
+    "reviews_count": "880",
+    "film_name": "Gran Torino",
+    "country": "USA|Germany",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt1205489",
+    "rating_count": 590651,
+    "filming_loc": "13140 Charlevoix St, Detroit, Michigan, USA",
+    "language": "English|Hmong"
+}

@@ -1,0 +1,27 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Graham Chapman",
+        "John Cleese",
+        "Michael Palin"
+    ],
+    "budget": "4000000",
+    "run_time": "94",
+    "writer": [
+        "Graham Chapman",
+        "John Cleese"
+    ],
+    "director": "Terry Jones",
+    "rank": "181",
+    "gross": "646124",
+    "reviews_count": "328",
+    "film_name": "Life of Brian",
+    "country": "UK",
+    "genres": [
+        "Comedy"
+    ],
+    "id": "tt0079470",
+    "rating_count": 287200,
+    "filming_loc": "Amphitheater, Carthage, Tunis, Tunisia",
+    "language": "English|Latin"
+}

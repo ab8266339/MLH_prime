@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Kang-ho Song",
+        "Sang-kyung Kim",
+        "Roe-ha Kim"
+    ],
+    "budget": "2800000",
+    "run_time": "131",
+    "writer": [
+        "Joon-ho Bong",
+        "Kwang-rim Kim"
+    ],
+    "director": "Joon-ho Bong",
+    "rank": "210",
+    "gross": "14131",
+    "reviews_count": "142",
+    "film_name": "Memories of Murder",
+    "country": "South Korea",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0353969",
+    "rating_count": 74529,
+    "filming_loc": null,
+    "language": "Korean|English"
+}

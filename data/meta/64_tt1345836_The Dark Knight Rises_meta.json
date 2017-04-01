@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Christian Bale",
+        "Tom Hardy",
+        "Anne Hathaway"
+    ],
+    "budget": "250000000",
+    "run_time": "164",
+    "writer": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+    ],
+    "director": "Christopher Nolan",
+    "rank": "64",
+    "gross": "448130642",
+    "reviews_count": "2727",
+    "film_name": "The Dark Knight Rises",
+    "country": "USA|UK",
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "id": "tt1345836",
+    "rating_count": 1210649,
+    "filming_loc": "Downtown, Los Angeles, California, USA",
+    "language": "English|Arabic"
+}

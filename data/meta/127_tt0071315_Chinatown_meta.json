@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Jack Nicholson",
+        "Faye Dunaway",
+        "John Huston"
+    ],
+    "budget": null,
+    "run_time": "130",
+    "writer": [
+        "Robert Towne"
+    ],
+    "director": "Roman Polanski",
+    "rank": "127",
+    "gross": null,
+    "reviews_count": "465",
+    "film_name": "Chinatown",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0071315",
+    "rating_count": 228789,
+    "filming_loc": "Trident Ranch (actor Walter Brennan's then-home), 3240 Sunset Valley Road, Moorpark, California, USA",
+    "language": "English|Cantonese|Spanish"
+}

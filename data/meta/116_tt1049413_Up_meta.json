@@ -1,0 +1,30 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Edward Asner",
+        "Jordan Nagai",
+        "John Ratzenberger"
+    ],
+    "budget": "175000000",
+    "run_time": "96",
+    "writer": [
+        "Pete Docter",
+        "Bob Peterson"
+    ],
+    "director": "Pete Docter",
+    "rank": "116",
+    "gross": "292979556",
+    "reviews_count": "722",
+    "film_name": "Up",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "id": "tt1049413",
+    "rating_count": 713383,
+    "filming_loc": "Pixar Animation Studios - 1200 Park Avenue, Emeryville, California, USA",
+    "language": "English"
+}

@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Ryan O'Neal",
+        "Marisa Berenson",
+        "Patrick Magee"
+    ],
+    "budget": null,
+    "run_time": "184",
+    "writer": [
+        "Stanley Kubrick",
+        "William Makepeace Thackeray"
+    ],
+    "director": "Stanley Kubrick",
+    "rank": "236",
+    "gross": null,
+    "reviews_count": "380",
+    "film_name": "Barry Lyndon",
+    "country": "UK|USA|Ireland",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "id": "tt0072684",
+    "rating_count": 108121,
+    "filming_loc": "Royal Victoria Park, Bath, Somerset, England, UK",
+    "language": "English|German|French"
+}

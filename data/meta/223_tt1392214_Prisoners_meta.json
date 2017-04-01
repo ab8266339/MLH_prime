@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis"
+    ],
+    "budget": "46000000",
+    "run_time": "153",
+    "writer": [
+        "Aaron Guzikowski"
+    ],
+    "director": "Denis Villeneuve",
+    "rank": "223",
+    "gross": "60962878",
+    "reviews_count": "648",
+    "film_name": "Prisoners",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt1392214",
+    "rating_count": 423876,
+    "filming_loc": "Conyers, Georgia, USA",
+    "language": "English"
+}

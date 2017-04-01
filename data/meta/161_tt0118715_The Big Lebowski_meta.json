@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Jeff Bridges",
+        "John Goodman",
+        "Julianne Moore"
+    ],
+    "budget": "15000000",
+    "run_time": "117",
+    "writer": [
+        "Ethan Coen",
+        "Joel Coen"
+    ],
+    "director": "Joel Coen",
+    "rank": "161",
+    "gross": "17439163",
+    "reviews_count": "1048",
+    "film_name": "The Big Lebowski",
+    "country": "USA|UK",
+    "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+    ],
+    "id": "tt0118715",
+    "rating_count": 570908,
+    "filming_loc": "10231 Charing Cross Road, Beverly Hills, California, USA",
+    "language": "English|German|Hebrew|Spanish"
+}

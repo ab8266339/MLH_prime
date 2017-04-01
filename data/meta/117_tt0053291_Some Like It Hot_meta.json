@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Marilyn Monroe",
+        "Tony Curtis",
+        "Jack Lemmon"
+    ],
+    "budget": "2883848",
+    "run_time": "120",
+    "writer": [
+        "Billy Wilder",
+        "I.A.L. Diamond"
+    ],
+    "director": "Billy Wilder",
+    "rank": "117",
+    "gross": "25000000",
+    "reviews_count": "358",
+    "film_name": "Some Like It Hot",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Romance"
+    ],
+    "id": "tt0053291",
+    "rating_count": 185315,
+    "filming_loc": "Coronado Beach, Coronado, California, USA",
+    "language": "English"
+}

@@ -1,0 +1,29 @@
+{
+    "rating": 8.9,
+    "stars": [
+        "Liam Neeson",
+        "Ralph Fiennes",
+        "Ben Kingsley"
+    ],
+    "budget": "22000000",
+    "run_time": "195",
+    "writer": [
+        "Thomas Keneally",
+        "Steven Zaillian"
+    ],
+    "director": "Steven Spielberg",
+    "rank": "6",
+    "gross": "96067179",
+    "reviews_count": "1317",
+    "film_name": "Schindlers List",
+    "country": "USA",
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "id": "tt0108052",
+    "rating_count": 919310,
+    "filming_loc": "J\u00f3zefa, Krak\u00f3w, Malopolskie, Poland",
+    "language": "English|Hebrew|German|Polish"
+}

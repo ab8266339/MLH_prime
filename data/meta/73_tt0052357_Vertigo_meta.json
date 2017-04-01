@@ -1,0 +1,29 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes"
+    ],
+    "budget": "2479000",
+    "run_time": "128",
+    "writer": [
+        "Alec Coppel",
+        "Samuel A. Taylor"
+    ],
+    "director": "Alfred Hitchcock",
+    "rank": "73",
+    "gross": "3200000",
+    "reviews_count": "704",
+    "film_name": "Vertigo",
+    "country": "USA",
+    "genres": [
+        "Mystery",
+        "Romance",
+        "Thriller"
+    ],
+    "id": "tt0052357",
+    "rating_count": 265748,
+    "filming_loc": "Union St &amp; Montgomery St, San Francisco, California, USA",
+    "language": "English"
+}

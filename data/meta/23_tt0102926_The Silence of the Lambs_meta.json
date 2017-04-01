@@ -1,0 +1,29 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Lawrence A. Bonney"
+    ],
+    "budget": "19000000",
+    "run_time": "118",
+    "writer": [
+        "Thomas Harris",
+        "Ted Tally"
+    ],
+    "director": "Jonathan Demme",
+    "rank": "23",
+    "gross": "130727000",
+    "reviews_count": "946",
+    "film_name": "The Silence of the Lambs",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0102926",
+    "rating_count": 949219,
+    "filming_loc": "Clay County, West Virginia, USA",
+    "language": "English"
+}

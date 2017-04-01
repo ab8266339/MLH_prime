@@ -1,0 +1,29 @@
+{
+    "rating": 8.0,
+    "stars": [
+        "Farley Granger",
+        "Robert Walker",
+        "Ruth Roman"
+    ],
+    "budget": null,
+    "run_time": "101",
+    "writer": [
+        "Raymond Chandler",
+        "Czenzi Ormonde"
+    ],
+    "director": "Alfred Hitchcock",
+    "rank": "249",
+    "gross": null,
+    "reviews_count": "278",
+    "film_name": "Strangers on a Train",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Film-Noir",
+        "Thriller"
+    ],
+    "id": "tt0044079",
+    "rating_count": 102535,
+    "filming_loc": "West Side Tennis Club - 1 Tennis Place, Forest Hills, Queens, New York City, New York, USA",
+    "language": "English|French"
+}

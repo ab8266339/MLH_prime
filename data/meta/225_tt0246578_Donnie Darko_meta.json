@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "Mary McDonnell"
+    ],
+    "budget": "4500000",
+    "run_time": "113",
+    "writer": [
+        "Richard Kelly"
+    ],
+    "director": "Richard Kelly",
+    "rank": "225",
+    "gross": "727883",
+    "reviews_count": "2127",
+    "film_name": "Donnie Darko",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt0246578",
+    "rating_count": 613714,
+    "filming_loc": "Santa Clarita, California, USA",
+    "language": "English"
+}

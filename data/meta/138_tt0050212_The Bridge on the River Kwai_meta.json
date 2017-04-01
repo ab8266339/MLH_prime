@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "William Holden",
+        "Alec Guinness",
+        "Jack Hawkins"
+    ],
+    "budget": "3000000",
+    "run_time": "161",
+    "writer": [
+        "Pierre Boulle",
+        "Carl Foreman"
+    ],
+    "director": "David Lean",
+    "rank": "138",
+    "gross": "27200000",
+    "reviews_count": "281",
+    "film_name": "The Bridge on the River Kwai",
+    "country": "UK|USA",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+    ],
+    "id": "tt0050212",
+    "rating_count": 158490,
+    "filming_loc": "Kalugamuwa, Gelioya, Kandy, Sri Lanka",
+    "language": "English|Japanese|Thai"
+}

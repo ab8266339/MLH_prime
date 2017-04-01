@@ -1,0 +1,29 @@
+{
+    "rating": 8.0,
+    "stars": [
+        "Bruce Willis",
+        "Madeleine Stowe",
+        "Brad Pitt"
+    ],
+    "budget": "29000001",
+    "run_time": "129",
+    "writer": [
+        "Chris Marker",
+        "David Webb Peoples"
+    ],
+    "director": "Terry Gilliam",
+    "rank": "235",
+    "gross": "56882000",
+    "reviews_count": "550",
+    "film_name": "Twelve Monkeys",
+    "country": "USA",
+    "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt0114746",
+    "rating_count": 485849,
+    "filming_loc": "344 North Gay Street, Baltimore, Maryland, USA",
+    "language": "English|French"
+}

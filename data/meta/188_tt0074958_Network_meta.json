@@ -1,0 +1,26 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Faye Dunaway",
+        "William Holden",
+        "Peter Finch"
+    ],
+    "budget": null,
+    "run_time": "121",
+    "writer": [
+        "Paddy Chayefsky"
+    ],
+    "director": "Sidney Lumet",
+    "rank": "188",
+    "gross": null,
+    "reviews_count": "323",
+    "film_name": "Network",
+    "country": "USA",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0074958",
+    "rating_count": 110279,
+    "filming_loc": "CFTO-TV Studios, Scarborough, Toronto, Ontario, Canada",
+    "language": "English"
+}

@@ -1,0 +1,27 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Bibi Andersson",
+        "Liv Ullmann",
+        "Margaretha Krook"
+    ],
+    "budget": null,
+    "run_time": "85",
+    "writer": [
+        "Ingmar Bergman"
+    ],
+    "director": "Ingmar Bergman",
+    "rank": "201",
+    "gross": null,
+    "reviews_count": "174",
+    "film_name": "Persona",
+    "country": "Sweden",
+    "genres": [
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0060827",
+    "rating_count": 66921,
+    "filming_loc": "F\u00e5r\u00f6, Gotlands l\u00e4n, Sweden",
+    "language": "Swedish|English"
+}

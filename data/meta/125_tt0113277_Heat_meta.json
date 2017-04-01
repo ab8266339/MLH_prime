@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Val Kilmer"
+    ],
+    "budget": "60000000",
+    "run_time": "170",
+    "writer": [
+        "Michael Mann"
+    ],
+    "director": "Michael Mann",
+    "rank": "125",
+    "gross": "67436000",
+    "reviews_count": "895",
+    "film_name": "Heat",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0113277",
+    "rating_count": 453803,
+    "filming_loc": "Venice Boulevard at Georgia Street, Los Angeles, California, USA",
+    "language": "English|Spanish"
+}

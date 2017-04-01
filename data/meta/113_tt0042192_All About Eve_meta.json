@@ -1,0 +1,26 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Bette Davis",
+        "Anne Baxter",
+        "George Sanders"
+    ],
+    "budget": "1400000",
+    "run_time": "138",
+    "writer": [
+        "Joseph L. Mankiewicz"
+    ],
+    "director": "Joseph L. Mankiewicz",
+    "rank": "113",
+    "gross": "10177",
+    "reviews_count": "325",
+    "film_name": "All About Eve",
+    "country": "USA",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0042192",
+    "rating_count": 88095,
+    "filming_loc": "242 West 45th Street, Manhattan, New York City, New York, USA",
+    "language": "English|French"
+}

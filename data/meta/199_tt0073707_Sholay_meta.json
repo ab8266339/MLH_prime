@@ -1,0 +1,32 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Dharmendra",
+        "Sanjeev Kumar",
+        "Hema Malini"
+    ],
+    "budget": null,
+    "run_time": "198",
+    "writer": [
+        "Javed Akhtar",
+        "Salim Khan"
+    ],
+    "director": "Ramesh Sippy",
+    "rank": "199",
+    "gross": null,
+    "reviews_count": "126",
+    "film_name": "Sholay",
+    "country": "India",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Musical",
+        "Thriller"
+    ],
+    "id": "tt0073707",
+    "rating_count": 36919,
+    "filming_loc": "Bangalore, Karnataka, India",
+    "language": "Hindi"
+}

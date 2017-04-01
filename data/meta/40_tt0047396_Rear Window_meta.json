@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "James Stewart",
+        "Grace Kelly",
+        "Wendell Corey"
+    ],
+    "budget": "1000000",
+    "run_time": "112",
+    "writer": [
+        "John Michael Hayes",
+        "Cornell Woolrich"
+    ],
+    "director": "Alfred Hitchcock",
+    "rank": "40",
+    "gross": "24500000",
+    "reviews_count": "652",
+    "film_name": "Rear Window",
+    "country": "USA",
+    "genres": [
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0047396",
+    "rating_count": 335621,
+    "filming_loc": "Stage 18, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA",
+    "language": "English"
+}

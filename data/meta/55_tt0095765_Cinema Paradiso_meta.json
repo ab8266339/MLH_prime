@@ -1,0 +1,27 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Philippe Noiret",
+        "Enzo Cannavale",
+        "Antonella Attili"
+    ],
+    "budget": "5000000",
+    "run_time": "155",
+    "writer": [
+        "Giuseppe Tornatore",
+        "Giuseppe Tornatore"
+    ],
+    "director": "Giuseppe Tornatore",
+    "rank": "55",
+    "gross": "11990401",
+    "reviews_count": "399",
+    "film_name": "Cinema Paradiso",
+    "country": "Italy|France",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0095765",
+    "rating_count": 163599,
+    "filming_loc": "Bagheria, Palermo, Sicily, Italy",
+    "language": "Italian"
+}

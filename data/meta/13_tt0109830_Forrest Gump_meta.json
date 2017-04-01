@@ -1,0 +1,29 @@
+{
+    "rating": 8.8,
+    "stars": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+    ],
+    "budget": "55000000",
+    "run_time": "142",
+    "writer": [
+        "Winston Groom",
+        "Eric Roth"
+    ],
+    "director": "Robert Zemeckis",
+    "rank": "13",
+    "gross": "329691196",
+    "reviews_count": "1473",
+    "film_name": "Forrest Gump",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "id": "tt0109830",
+    "rating_count": 1342071,
+    "filming_loc": "Monument Valley, Arizona, USA",
+    "language": "English"
+}

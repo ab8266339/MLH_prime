@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Fredric March",
+        "Dana Andrews",
+        "Myrna Loy"
+    ],
+    "budget": "2100000",
+    "run_time": "172",
+    "writer": [
+        "Robert E. Sherwood",
+        "MacKinlay Kantor"
+    ],
+    "director": "William Wyler",
+    "rank": "239",
+    "gross": "23650000",
+    "reviews_count": "244",
+    "film_name": "The Best Years of Our Lives",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "id": "tt0036868",
+    "rating_count": 42652,
+    "filming_loc": "Walnut Hills High School - 3250 Victory Parkway, Cincinnati, Ohio, USA",
+    "language": "English"
+}

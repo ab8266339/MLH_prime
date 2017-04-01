@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles"
+    ],
+    "budget": "806947",
+    "run_time": "109",
+    "writer": [
+        "Joseph Stefano",
+        "Robert Bloch"
+    ],
+    "director": "Alfred Hitchcock",
+    "rank": "35",
+    "gross": "32000000",
+    "reviews_count": "1059",
+    "film_name": "Psycho",
+    "country": "USA",
+    "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0054215",
+    "rating_count": 449607,
+    "filming_loc": "Title and Trust Building, 114 West Adams Street, downtown Phoenix, Arizona, USA",
+    "language": "English"
+}

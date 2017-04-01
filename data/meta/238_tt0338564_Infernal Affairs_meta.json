@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Andy Lau",
+        "Tony Chiu-Wai Leung",
+        "Anthony Chau-Sang Wong"
+    ],
+    "budget": "6428966",
+    "run_time": "101",
+    "writer": [
+        "Alan Mak",
+        "Felix Chong"
+    ],
+    "director": "Wai-Keung Lau",
+    "rank": "238",
+    "gross": "89594",
+    "reviews_count": "191",
+    "film_name": "Infernal Affairs",
+    "country": "Hong Kong",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0338564",
+    "rating_count": 96696,
+    "filming_loc": "Ten Thousand Buddhas Monastery, Sha Tin, New Territories, Hong Kong, China",
+    "language": "Cantonese|English|Thai"
+}

@@ -1,0 +1,27 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Henry Fonda",
+        "Charles Bronson",
+        "Claudia Cardinale"
+    ],
+    "budget": null,
+    "run_time": "165",
+    "writer": [
+        "Sergio Donati",
+        "Sergio Leone"
+    ],
+    "director": "Sergio Leone",
+    "rank": "30",
+    "gross": null,
+    "reviews_count": "580",
+    "film_name": "Once Upon a Time in the West",
+    "country": "Italy|USA",
+    "genres": [
+        "Western"
+    ],
+    "id": "tt0064116",
+    "rating_count": 229506,
+    "filming_loc": "Bavispe, Sonora, Mexico",
+    "language": "Italian|Spanish"
+}

@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Sigourney Weaver",
+        "Tom Skerritt",
+        "John Hurt"
+    ],
+    "budget": "11000000",
+    "run_time": "117",
+    "writer": [
+        "Dan O'Bannon",
+        "Ronald Shusett"
+    ],
+    "director": "Ridley Scott",
+    "rank": "51",
+    "gross": "78900000",
+    "reviews_count": "1142",
+    "film_name": "Alien",
+    "country": "UK|USA",
+    "genres": [
+        "Horror",
+        "Sci-Fi"
+    ],
+    "id": "tt0078748",
+    "rating_count": 600540,
+    "filming_loc": "Shepperton Studios, Shepperton, Surrey, England, UK",
+    "language": "English|Spanish"
+}

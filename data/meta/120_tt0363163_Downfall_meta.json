@@ -1,0 +1,30 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Bruno Ganz",
+        "Alexandra Maria Lara",
+        "Ulrich Matthes"
+    ],
+    "budget": "13500000",
+    "run_time": "156",
+    "writer": [
+        "Bernd Eichinger",
+        "Joachim Fest"
+    ],
+    "director": "Oliver Hirschbiegel",
+    "rank": "120",
+    "gross": "5501940",
+    "reviews_count": "567",
+    "film_name": "Downfall",
+    "country": "Germany|Austria|Italy",
+    "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "id": "tt0363163",
+    "rating_count": 262235,
+    "filming_loc": "Russia",
+    "language": "German|Russian|Hungarian"
+}

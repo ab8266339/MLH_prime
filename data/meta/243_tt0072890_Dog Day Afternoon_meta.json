@@ -1,0 +1,30 @@
+{
+    "rating": 8.0,
+    "stars": [
+        "Al Pacino",
+        "John Cazale",
+        "Penelope Allen"
+    ],
+    "budget": null,
+    "run_time": "125",
+    "writer": [
+        "Frank Pierson",
+        "P.F. Kluge"
+    ],
+    "director": "Sidney Lumet",
+    "rank": "243",
+    "gross": null,
+    "reviews_count": "262",
+    "film_name": "Dog Day Afternoon",
+    "country": "USA",
+    "genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0072890",
+    "rating_count": 192025,
+    "filming_loc": "New York, USA",
+    "language": "English"
+}

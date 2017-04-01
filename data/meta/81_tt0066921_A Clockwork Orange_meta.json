@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Malcolm McDowell",
+        "Patrick Magee",
+        "Michael Bates"
+    ],
+    "budget": null,
+    "run_time": "136",
+    "writer": [
+        "Stanley Kubrick",
+        "Anthony Burgess"
+    ],
+    "director": "Stanley Kubrick",
+    "rank": "81",
+    "gross": null,
+    "reviews_count": "1354",
+    "film_name": "A Clockwork Orange",
+    "country": "UK|USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "id": "tt0066921",
+    "rating_count": 592576,
+    "filming_loc": "Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",
+    "language": "English"
+}

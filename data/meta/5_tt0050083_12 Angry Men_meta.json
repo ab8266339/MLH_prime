@@ -1,0 +1,28 @@
+{
+    "rating": 8.9,
+    "stars": [
+        "Henry Fonda",
+        "Lee J. Cobb",
+        "Martin Balsam"
+    ],
+    "budget": null,
+    "run_time": "96",
+    "writer": [
+        "Reginald Rose",
+        "Reginald Rose"
+    ],
+    "director": "Sidney Lumet",
+    "rank": "5",
+    "gross": null,
+    "reviews_count": "974",
+    "film_name": "12 Angry Men",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0050083",
+    "rating_count": 483852,
+    "filming_loc": "New York County Courthouse - 60 Centre Street, New York City, New York, USA",
+    "language": "English"
+}

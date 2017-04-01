@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Charles Chaplin",
+        "Paulette Goddard",
+        "Jack Oakie"
+    ],
+    "budget": null,
+    "run_time": "125",
+    "writer": [
+        "Charles Chaplin"
+    ],
+    "director": "Charles Chaplin",
+    "rank": "54",
+    "gross": null,
+    "reviews_count": "202",
+    "film_name": "The Great Dictator",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+    ],
+    "id": "tt0032553",
+    "rating_count": 147744,
+    "filming_loc": "Agoura Hills, California, USA",
+    "language": "English|Esperanto"
+}

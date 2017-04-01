@@ -1,0 +1,27 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young"
+    ],
+    "budget": "960000",
+    "run_time": "120",
+    "writer": [
+        "Sylvester Stallone"
+    ],
+    "director": "John G. Avildsen",
+    "rank": "219",
+    "gross": "117235247",
+    "reviews_count": "556",
+    "film_name": "Rocky",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Sport"
+    ],
+    "id": "tt0075148",
+    "rating_count": 401567,
+    "filming_loc": "2822-2824 Rosehill St, Philadelphia, Pensylvannia, USA",
+    "language": "English"
+}

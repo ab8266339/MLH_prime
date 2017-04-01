@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "William Holden",
+        "Gloria Swanson",
+        "Erich von Stroheim"
+    ],
+    "budget": null,
+    "run_time": "110",
+    "writer": [
+        "Charles Brackett",
+        "Billy Wilder"
+    ],
+    "director": "Billy Wilder",
+    "rank": "52",
+    "gross": null,
+    "reviews_count": "462",
+    "film_name": "Sunset Boulevard",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Film-Noir"
+    ],
+    "id": "tt0043014",
+    "rating_count": 147964,
+    "filming_loc": "Bel-Air Country Club - 10768 Bellagio Road, Los Angeles, California, USA",
+    "language": "English"
+}

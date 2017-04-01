@@ -1,0 +1,27 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio"
+    ],
+    "budget": "100000000",
+    "run_time": "165",
+    "writer": [
+        "Quentin Tarantino"
+    ],
+    "director": "Quentin Tarantino",
+    "rank": "59",
+    "gross": "162804648",
+    "reviews_count": "1213",
+    "film_name": "Django Unchained",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Western"
+    ],
+    "id": "tt1853728",
+    "rating_count": 1026102,
+    "filming_loc": "Jackson Hole, Wyoming, USA",
+    "language": "English|German|French|Italian"
+}

@@ -1,0 +1,27 @@
+{
+    "rating": 8.7,
+    "stars": [
+        "Jack Nicholson",
+        "Louise Fletcher",
+        "Michael Berryman"
+    ],
+    "budget": "4400000",
+    "run_time": "133",
+    "writer": [
+        "Lawrence Hauben",
+        "Bo Goldman"
+    ],
+    "director": "Milos Forman",
+    "rank": "16",
+    "gross": "112000000",
+    "reviews_count": "778",
+    "film_name": "One Flew Over the Cuckoos Nest",
+    "country": "USA",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0073486",
+    "rating_count": 718388,
+    "filming_loc": "Depoe Bay, Oregon, USA",
+    "language": "English"
+}

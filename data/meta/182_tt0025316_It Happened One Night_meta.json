@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Clark Gable",
+        "Claudette Colbert",
+        "Walter Connolly"
+    ],
+    "budget": null,
+    "run_time": "105",
+    "writer": [
+        "Robert Riskin",
+        "Samuel Hopkins Adams"
+    ],
+    "director": "Frank Capra",
+    "rank": "182",
+    "gross": null,
+    "reviews_count": "242",
+    "film_name": "It Happened One Night",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Romance"
+    ],
+    "id": "tt0025316",
+    "rating_count": 69303,
+    "filming_loc": "Santa Anita Ave in Arcadia, California, USA",
+    "language": "English"
+}

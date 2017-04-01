@@ -1,0 +1,30 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Dafne Keen"
+    ],
+    "budget": "97000000",
+    "run_time": "141",
+    "writer": [
+        "James Mangold",
+        "Scott Frank"
+    ],
+    "director": "James Mangold",
+    "rank": "61",
+    "gross": "205667637",
+    "reviews_count": "807",
+    "film_name": "Logan",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt3315342",
+    "rating_count": 197677,
+    "filming_loc": "Just outside Northern Meadows community, Rio Rancho, New Mexico, USA",
+    "language": "English|Spanish"
+}

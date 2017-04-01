@@ -1,0 +1,29 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Mel Gibson",
+        "Sophie Marceau",
+        "Patrick McGoohan"
+    ],
+    "budget": "72000000",
+    "run_time": "178",
+    "writer": [
+        "Randall Wallace"
+    ],
+    "director": "Mel Gibson",
+    "rank": "76",
+    "gross": "75600000",
+    "reviews_count": "1110",
+    "film_name": "Braveheart",
+    "country": "USA",
+    "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "id": "tt0112573",
+    "rating_count": 779648,
+    "filming_loc": "Arizona, USA",
+    "language": "English|French|Latin|Scottish Gaelic"
+}

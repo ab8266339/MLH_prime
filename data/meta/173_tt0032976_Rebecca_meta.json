@@ -1,0 +1,30 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Laurence Olivier",
+        "Joan Fontaine",
+        "George Sanders"
+    ],
+    "budget": null,
+    "run_time": "130",
+    "writer": [
+        "Daphne Du Maurier",
+        "Robert E. Sherwood"
+    ],
+    "director": "Alfred Hitchcock",
+    "rank": "173",
+    "gross": null,
+    "reviews_count": "288",
+    "film_name": "Rebecca",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Romance",
+        "Thriller"
+    ],
+    "id": "tt0032976",
+    "rating_count": 92560,
+    "filming_loc": "Big Sur, California, USA",
+    "language": "English|French"
+}

@@ -1,0 +1,30 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Margot Robbie"
+    ],
+    "budget": "100000000",
+    "run_time": "180",
+    "writer": [
+        "Terence Winter",
+        "Jordan Belfort"
+    ],
+    "director": "Martin Scorsese",
+    "rank": "151",
+    "gross": "116866727",
+    "reviews_count": "1172",
+    "film_name": "The Wolf of Wall Street",
+    "country": "USA",
+    "genres": [
+        "Biography",
+        "Comedy",
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0993846",
+    "rating_count": 852650,
+    "filming_loc": "New York City, New York, USA",
+    "language": "English|French"
+}

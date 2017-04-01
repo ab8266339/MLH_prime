@@ -1,0 +1,29 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore"
+    ],
+    "budget": null,
+    "run_time": "130",
+    "writer": [
+        "Frances Goodrich",
+        "Albert Hackett"
+    ],
+    "director": "Frank Capra",
+    "rank": "24",
+    "gross": null,
+    "reviews_count": "735",
+    "film_name": "Its a Wonderful Life",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "id": "tt0038650",
+    "rating_count": 296063,
+    "filming_loc": "California, USA",
+    "language": "English"
+}

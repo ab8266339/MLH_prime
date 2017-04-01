@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Gene Kelly",
+        "Donald O'Connor",
+        "Debbie Reynolds"
+    ],
+    "budget": null,
+    "run_time": "103",
+    "writer": [
+        "Betty Comden",
+        "Adolph Green"
+    ],
+    "director": "Stanley Donen",
+    "rank": "94",
+    "gross": null,
+    "reviews_count": "580",
+    "film_name": "Singin in the Rain",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "id": "tt0045152",
+    "rating_count": 161861,
+    "filming_loc": "Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA",
+    "language": "English"
+}

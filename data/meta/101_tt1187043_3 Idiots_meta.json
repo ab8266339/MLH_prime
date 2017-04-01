@@ -1,0 +1,28 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Aamir Khan",
+        "Madhavan",
+        "Mona Singh"
+    ],
+    "budget": "550000000",
+    "run_time": "170",
+    "writer": [
+        "Rajkumar Hirani",
+        "Abhijat Joshi"
+    ],
+    "director": "Rajkumar Hirani",
+    "rank": "101",
+    "gross": "6523137",
+    "reviews_count": "382",
+    "film_name": "3 Idiots",
+    "country": "India",
+    "genres": [
+        "Comedy",
+        "Drama"
+    ],
+    "id": "tt1187043",
+    "rating_count": 233895,
+    "filming_loc": "Bangalore, Karnataka, India",
+    "language": "Hindi|English"
+}

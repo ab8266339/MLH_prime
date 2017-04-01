@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Paul Newman",
+        "George Kennedy",
+        "Strother Martin"
+    ],
+    "budget": null,
+    "run_time": "126",
+    "writer": [
+        "Donn Pearce",
+        "Frank Pierson"
+    ],
+    "director": "Stuart Rosenberg",
+    "rank": "172",
+    "gross": null,
+    "reviews_count": "272",
+    "film_name": "Cool Hand Luke",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0061512",
+    "rating_count": 126121,
+    "filming_loc": "Jacksonville, Florida, USA",
+    "language": "English"
+}

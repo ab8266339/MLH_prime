@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Harvey Keitel",
+        "Tim Roth",
+        "Michael Madsen"
+    ],
+    "budget": "1200000",
+    "run_time": "99",
+    "writer": [
+        "Quentin Tarantino",
+        "Roger Avary"
+    ],
+    "director": "Quentin Tarantino",
+    "rank": "75",
+    "gross": "2812029",
+    "reviews_count": "946",
+    "film_name": "Reservoir Dogs",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0105236",
+    "rating_count": 706912,
+    "filming_loc": "4459 Eagle Rock Blvd, Los Angeles, California, USA",
+    "language": "English"
+}

@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Akshay Kumar",
+        "Paresh Rawal",
+        "Sunil Shetty"
+    ],
+    "budget": null,
+    "run_time": "156",
+    "writer": [
+        "Siddique",
+        "Lal"
+    ],
+    "director": "Priyadarshan",
+    "rank": "203",
+    "gross": null,
+    "reviews_count": "38",
+    "film_name": "Hera Pheri",
+    "country": "India",
+    "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+    ],
+    "id": "tt0242519",
+    "rating_count": 37446,
+    "filming_loc": "Chennai, Tamil Nadu, IndiaCompany CreditsProduction Co:A.G. Films ",
+    "language": "Hindi"
+}

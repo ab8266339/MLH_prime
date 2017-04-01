@@ -1,0 +1,27 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Ellen Burstyn",
+        "Jared Leto",
+        "Jennifer Connelly"
+    ],
+    "budget": "4500000",
+    "run_time": "102",
+    "writer": [
+        "Hubert Selby Jr.",
+        "Hubert Selby Jr."
+    ],
+    "director": "Darren Aronofsky",
+    "rank": "79",
+    "gross": "3609278",
+    "reviews_count": "1934",
+    "film_name": "Requiem for a Dream",
+    "country": "USA",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0180093",
+    "rating_count": 607362,
+    "filming_loc": "Brooklyn, New York City, New York, USA",
+    "language": "English"
+}

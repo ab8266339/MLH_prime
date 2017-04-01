@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Matthew Modine",
+        "R. Lee Ermey",
+        "Vincent D'Onofrio"
+    ],
+    "budget": "30000000",
+    "run_time": "116",
+    "writer": [
+        "Gustav Hasford",
+        "Stanley Kubrick"
+    ],
+    "director": "Stanley Kubrick",
+    "rank": "90",
+    "gross": "46357676",
+    "reviews_count": "707",
+    "film_name": "Full Metal Jacket",
+    "country": "UK|USA",
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "id": "tt0093058",
+    "rating_count": 516099,
+    "filming_loc": "Norfolk Broads, Norfolk, England, UK",
+    "language": "English|Vietnamese"
+}

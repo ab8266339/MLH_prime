@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Alisa Freyndlikh",
+        "Aleksandr Kaydanovskiy",
+        "Anatoliy Solonitsyn"
+    ],
+    "budget": null,
+    "run_time": "163",
+    "writer": [
+        "Arkadiy Strugatskiy",
+        "Boris Strugatskiy"
+    ],
+    "director": "Andrei Tarkovsky",
+    "rank": "211",
+    "gross": null,
+    "reviews_count": "308",
+    "film_name": "Stalker",
+    "country": "Soviet Union",
+    "genres": [
+        "Drama",
+        "Sci-Fi"
+    ],
+    "id": "tt0079944",
+    "rating_count": 74047,
+    "filming_loc": "Dolgopa, Russia",
+    "language": "Russian"
+}

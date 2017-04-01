@@ -1,0 +1,30 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson"
+    ],
+    "budget": "40000000",
+    "run_time": "130",
+    "writer": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+    ],
+    "director": "Christopher Nolan",
+    "rank": "48",
+    "gross": "53082743",
+    "reviews_count": "1121",
+    "film_name": "The Prestige",
+    "country": "USA|UK",
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt0482571",
+    "rating_count": 901832,
+    "filming_loc": "Spring Street Towers - 650 S. Spring Street, Downtown, Los Angeles, California, USA",
+    "language": "English"
+}

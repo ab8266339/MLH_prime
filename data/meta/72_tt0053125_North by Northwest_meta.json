@@ -1,0 +1,29 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Cary Grant",
+        "Eva Marie Saint",
+        "James Mason"
+    ],
+    "budget": null,
+    "run_time": "136",
+    "writer": [
+        "Ernest Lehman"
+    ],
+    "director": "Alfred Hitchcock",
+    "rank": "72",
+    "gross": null,
+    "reviews_count": "523",
+    "film_name": "North by Northwest",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0053125",
+    "rating_count": 231406,
+    "filming_loc": "Garces Highway 1/10th mile East from Corcoran Road and Kern National Wildlife Preserve, Kern County, California, USA",
+    "language": "English"
+}

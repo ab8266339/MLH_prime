@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Christian Bale",
+        "Michael Caine",
+        "Ken Watanabe"
+    ],
+    "budget": "150000000",
+    "run_time": "140",
+    "writer": [
+        "Bob Kane",
+        "David S. Goyer"
+    ],
+    "director": "Christopher Nolan",
+    "rank": "115",
+    "gross": "205343774",
+    "reviews_count": "2697",
+    "film_name": "Batman Begins",
+    "country": "USA|UK",
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "id": "tt0372784",
+    "rating_count": 1038218,
+    "filming_loc": "Coalhouse Fort, East Tilbury, Essex, England, UK",
+    "language": "English|Urdu|Mandarin"
+}

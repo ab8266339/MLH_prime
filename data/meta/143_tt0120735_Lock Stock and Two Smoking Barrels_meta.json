@@ -1,0 +1,27 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Jason Flemyng",
+        "Dexter Fletcher",
+        "Nick Moran"
+    ],
+    "budget": "960000",
+    "run_time": "107",
+    "writer": [
+        "Guy Ritchie"
+    ],
+    "director": "Guy Ritchie",
+    "rank": "143",
+    "gross": "3650677",
+    "reviews_count": "529",
+    "film_name": "Lock Stock and Two Smoking Barrels",
+    "country": "UK",
+    "genres": [
+        "Comedy",
+        "Crime"
+    ],
+    "id": "tt0120735",
+    "rating_count": 436227,
+    "filming_loc": "13-15 Park Street, London, England, UK",
+    "language": "English"
+}

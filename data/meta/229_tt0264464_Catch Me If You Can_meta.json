@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken"
+    ],
+    "budget": "52000000",
+    "run_time": "141",
+    "writer": [
+        "Jeff Nathanson",
+        "Frank Abagnale Jr."
+    ],
+    "director": "Steven Spielberg",
+    "rank": "229",
+    "gross": "164435221",
+    "reviews_count": "680",
+    "film_name": "Catch Me If You Can",
+    "country": "USA|Canada",
+    "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0264464",
+    "rating_count": 577355,
+    "filming_loc": "2186 East Crary Street, Altadena, California, USA",
+    "language": "English|French"
+}

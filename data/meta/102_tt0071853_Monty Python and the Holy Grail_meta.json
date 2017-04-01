@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Graham Chapman",
+        "John Cleese",
+        "Eric Idle"
+    ],
+    "budget": "229575",
+    "run_time": "91",
+    "writer": [
+        "Graham Chapman",
+        "John Cleese"
+    ],
+    "director": "Terry Gilliam",
+    "rank": "102",
+    "gross": "1229197",
+    "reviews_count": "671",
+    "film_name": "Monty Python and the Holy Grail",
+    "country": "UK",
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "id": "tt0071853",
+    "rating_count": 401753,
+    "filming_loc": "Appin, Argyll and Bute, Scotland, UK",
+    "language": "English|French|Latin"
+}

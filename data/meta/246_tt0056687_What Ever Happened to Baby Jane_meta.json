@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Bette Davis",
+        "Joan Crawford",
+        "Victor Buono"
+    ],
+    "budget": null,
+    "run_time": "134",
+    "writer": [
+        "Henry Farrell",
+        "Lukas Heller"
+    ],
+    "director": "Robert Aldrich",
+    "rank": "246",
+    "gross": null,
+    "reviews_count": "197",
+    "film_name": "What Ever Happened to Baby Jane",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+    ],
+    "id": "tt0056687",
+    "rating_count": 34919,
+    "filming_loc": "172 S. McCadden Pl., Hancock Park, Los Angeles, California, USA",
+    "language": "English"
+}

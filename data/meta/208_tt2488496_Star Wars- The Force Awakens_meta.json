@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Daisy Ridley",
+        "John Boyega",
+        "Oscar Isaac"
+    ],
+    "budget": "245000000",
+    "run_time": "136",
+    "writer": [
+        "Lawrence Kasdan",
+        "J.J. Abrams"
+    ],
+    "director": "J.J. Abrams",
+    "rank": "208",
+    "gross": "936627416",
+    "reviews_count": "4095",
+    "film_name": "Star Wars- The Force Awakens",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "id": "tt2488496",
+    "rating_count": 648988,
+    "filming_loc": "Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",
+    "language": "English"
+}

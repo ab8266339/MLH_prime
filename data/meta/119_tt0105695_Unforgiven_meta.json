@@ -1,0 +1,27 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Clint Eastwood",
+        "Gene Hackman",
+        "Morgan Freeman"
+    ],
+    "budget": "14400000",
+    "run_time": "131",
+    "writer": [
+        "David Webb Peoples"
+    ],
+    "director": "Clint Eastwood",
+    "rank": "119",
+    "gross": "101157447",
+    "reviews_count": "507",
+    "film_name": "Unforgiven",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Western"
+    ],
+    "id": "tt0105695",
+    "rating_count": 293296,
+    "filming_loc": "Alberta, Canada",
+    "language": "English"
+}

@@ -1,0 +1,31 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Peter O'Toole",
+        "Alec Guinness",
+        "Anthony Quinn"
+    ],
+    "budget": "15000000",
+    "run_time": "216",
+    "writer": [
+        "T.E. Lawrence",
+        "Robert Bolt"
+    ],
+    "director": "David Lean",
+    "rank": "84",
+    "gross": "6000000",
+    "reviews_count": "565",
+    "film_name": "Lawrence of Arabia",
+    "country": "UK|USA",
+    "genres": [
+        "Adventure",
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "id": "tt0056172",
+    "rating_count": 204246,
+    "filming_loc": "Morocco",
+    "language": "English|Arabic|Turkish"
+}

@@ -1,0 +1,27 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Edward Norton",
+        "Edward Furlong",
+        "Beverly D'Angelo"
+    ],
+    "budget": "7500000",
+    "run_time": "119",
+    "writer": [
+        "David McKenna"
+    ],
+    "director": "Tony Kaye",
+    "rank": "31",
+    "gross": "6712241",
+    "reviews_count": "1438",
+    "film_name": "American History X",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0120586",
+    "rating_count": 828233,
+    "filming_loc": "2206 Meade Place, Venice Beach, Los Angeles, California, USA",
+    "language": "English"
+}

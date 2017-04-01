@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Daniel Radcliffe",
+        "Emma Watson",
+        "Rupert Grint"
+    ],
+    "budget": "125000000",
+    "run_time": "130",
+    "writer": [
+        "Steve Kloves",
+        "J.K. Rowling"
+    ],
+    "director": "David Yates",
+    "rank": "220",
+    "gross": "380955619",
+    "reviews_count": "825",
+    "film_name": "Harry Potter and the Deathly Hallows- Part 2",
+    "country": "USA|UK",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+    ],
+    "id": "tt1201607",
+    "rating_count": 582998,
+    "filming_loc": "England, UK",
+    "language": "English"
+}

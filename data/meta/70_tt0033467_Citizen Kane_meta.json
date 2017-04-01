@@ -1,0 +1,28 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Orson Welles",
+        "Joseph Cotten",
+        "Dorothy Comingore"
+    ],
+    "budget": null,
+    "run_time": "119",
+    "writer": [
+        "Herman J. Mankiewicz",
+        "Orson Welles"
+    ],
+    "director": "Orson Welles",
+    "rank": "70",
+    "gross": null,
+    "reviews_count": "1260",
+    "film_name": "Citizen Kane",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Mystery"
+    ],
+    "id": "tt0033467",
+    "rating_count": 313725,
+    "filming_loc": "California, USA",
+    "language": "English"
+}

@@ -1,0 +1,31 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Anthony Quinn",
+        "Irene Papas",
+        "Michael Ansara"
+    ],
+    "budget": null,
+    "run_time": "177",
+    "writer": [
+        "H.A.L. Craig",
+        "Tewfik El-Hakim"
+    ],
+    "director": "Moustapha Akkad",
+    "rank": "247",
+    "gross": null,
+    "reviews_count": "115",
+    "film_name": "The Message",
+    "country": "Lebanon|Libya|Kuwait|Morocco|UK",
+    "genres": [
+        "Adventure",
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "id": "tt0074896",
+    "rating_count": 35481,
+    "filming_loc": "Libya",
+    "language": "English|Arabic"
+}

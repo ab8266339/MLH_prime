@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Albert Brooks",
+        "Ellen DeGeneres",
+        "Alexander Gould"
+    ],
+    "budget": "94000000",
+    "run_time": "100",
+    "writer": [
+        "Andrew Stanton",
+        "Andrew Stanton"
+    ],
+    "director": "Andrew Stanton",
+    "rank": "169",
+    "gross": "380838870",
+    "reviews_count": "876",
+    "film_name": "Finding Nemo",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+    ],
+    "id": "tt0266543",
+    "rating_count": 742109,
+    "filming_loc": "Pixar Animation Studios - 1200 Park Avenue, Emeryville, California, USA",
+    "language": "English"
+}

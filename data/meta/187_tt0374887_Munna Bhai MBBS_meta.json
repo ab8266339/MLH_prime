@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Sunil Dutt",
+        "Sanjay Dutt",
+        "Arshad Warsi"
+    ],
+    "budget": null,
+    "run_time": "156",
+    "writer": [
+        "Vidhu Vinod Chopra",
+        "Rajkumar Hirani"
+    ],
+    "director": "Rajkumar Hirani",
+    "rank": "187",
+    "gross": null,
+    "reviews_count": "58",
+    "film_name": "Munna Bhai MBBS",
+    "country": "India",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "id": "tt0374887",
+    "rating_count": 49579,
+    "filming_loc": "Mumbai, Maharashtra, India",
+    "language": "Hindi"
+}

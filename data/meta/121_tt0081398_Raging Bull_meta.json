@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Robert De Niro",
+        "Cathy Moriarty",
+        "Joe Pesci"
+    ],
+    "budget": "18000000",
+    "run_time": "129",
+    "writer": [
+        "Jake LaMotta",
+        "Joseph Carter"
+    ],
+    "director": "Martin Scorsese",
+    "rank": "121",
+    "gross": "45250",
+    "reviews_count": "503",
+    "film_name": "Raging Bull",
+    "country": "USA",
+    "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+    ],
+    "id": "tt0081398",
+    "rating_count": 247744,
+    "filming_loc": "Downtown, Los Angeles, California, USA",
+    "language": "English"
+}

@@ -1,0 +1,27 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Clint Eastwood",
+        "Lee Van Cleef",
+        "Gian Maria Volont\u00e8"
+    ],
+    "budget": null,
+    "run_time": "132",
+    "writer": [
+        "Sergio Leone",
+        "Fulvio Morsella"
+    ],
+    "director": "Sergio Leone",
+    "rank": "104",
+    "gross": null,
+    "reviews_count": "226",
+    "film_name": "For a Few Dollars More",
+    "country": "Italy|Spain|West Germany",
+    "genres": [
+        "Western"
+    ],
+    "id": "tt0059578",
+    "rating_count": 168563,
+    "filming_loc": "Desierto de Tabernas, Almer\u00eda, Andaluc\u00eda, Spain",
+    "language": "Italian"
+}

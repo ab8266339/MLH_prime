@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Humphrey Bogart",
+        "Mary Astor",
+        "Gladys George"
+    ],
+    "budget": null,
+    "run_time": "100",
+    "writer": [
+        "John Huston",
+        "Dashiell Hammett"
+    ],
+    "director": "John Huston",
+    "rank": "204",
+    "gross": null,
+    "reviews_count": "355",
+    "film_name": "The Maltese Falcon",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Film-Noir",
+        "Mystery"
+    ],
+    "id": "tt0033870",
+    "rating_count": 119744,
+    "filming_loc": "Bush Street, San Francisco, California, USA",
+    "language": "English"
+}

@@ -1,0 +1,28 @@
+{
+    "rating": 9.0,
+    "stars": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall"
+    ],
+    "budget": "13000000",
+    "run_time": "202",
+    "writer": [
+        "Francis Ford Coppola",
+        "Mario Puzo"
+    ],
+    "director": "Francis Ford Coppola",
+    "rank": "3",
+    "gross": "57300000",
+    "reviews_count": "672",
+    "film_name": "The Godfather- Part II",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0071562",
+    "rating_count": 841754,
+    "filming_loc": "2045 N. Hibiscus Drive, North Miami, Florida, USA",
+    "language": "English|Italian|Spanish|Latin|Sicilian"
+}

@@ -1,0 +1,29 @@
+{
+    "rating": 8.9,
+    "stars": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+    ],
+    "budget": "94000000",
+    "run_time": "201",
+    "writer": [
+        "J.R.R. Tolkien",
+        "Fran Walsh"
+    ],
+    "director": "Peter Jackson",
+    "rank": "8",
+    "gross": "377019252",
+    "reviews_count": "3225",
+    "film_name": "The Lord of the Rings- The Return of the King",
+    "country": "USA|New Zealand",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "id": "tt0167260",
+    "rating_count": 1286246,
+    "filming_loc": "Dry Creek Quarry, Wellington, New Zealand",
+    "language": "English|Quenya|Old English|Sindarin"
+}

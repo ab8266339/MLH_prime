@@ -1,0 +1,28 @@
+{
+    "rating": 9.3,
+    "stars": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+    ],
+    "budget": "25000000",
+    "run_time": "142",
+    "writer": [
+        "Stephen King",
+        "Frank Darabont"
+    ],
+    "director": "Frank Darabont",
+    "rank": "1",
+    "gross": "28341469",
+    "reviews_count": "4452",
+    "film_name": "The Shawshank Redemption",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0111161",
+    "rating_count": 1792659,
+    "filming_loc": "St. Croix, U.S. Virgin Islands",
+    "language": "English"
+}

@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Hugo Weaving",
+        "Natalie Portman",
+        "Rupert Graves"
+    ],
+    "budget": "54000000",
+    "run_time": "132",
+    "writer": [
+        "Lilly Wachowski",
+        "Lana Wachowski"
+    ],
+    "director": "James McTeigue",
+    "rank": "150",
+    "gross": "70496802",
+    "reviews_count": "2065",
+    "film_name": "V for Vendetta",
+    "country": "USA|UK|Germany",
+    "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0434409",
+    "rating_count": 839015,
+    "filming_loc": "G\u00fcterfelde, Stahnsdorf, Brandenburg, Germany",
+    "language": "English"
+}

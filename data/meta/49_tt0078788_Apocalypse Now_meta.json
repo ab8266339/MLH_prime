@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Martin Sheen",
+        "Marlon Brando",
+        "Robert Duvall"
+    ],
+    "budget": "31500000",
+    "run_time": "153",
+    "writer": [
+        "John Milius",
+        "Francis Ford Coppola"
+    ],
+    "director": "Francis Ford Coppola",
+    "rank": "49",
+    "gross": "78800000",
+    "reviews_count": "1007",
+    "film_name": "Apocalypse Now",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "id": "tt0078788",
+    "rating_count": 474526,
+    "filming_loc": "Philippines",
+    "language": "English|French|Vietnamese"
+}

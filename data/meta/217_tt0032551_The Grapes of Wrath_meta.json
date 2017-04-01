@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Henry Fonda",
+        "Jane Darwell",
+        "John Carradine"
+    ],
+    "budget": null,
+    "run_time": "129",
+    "writer": [
+        "Nunnally Johnson",
+        "John Steinbeck"
+    ],
+    "director": "John Ford",
+    "rank": "217",
+    "gross": null,
+    "reviews_count": "304",
+    "film_name": "The Grapes of Wrath",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "History"
+    ],
+    "id": "tt0032551",
+    "rating_count": 67048,
+    "filming_loc": "Los Angeles, California, USA",
+    "language": "English"
+}

@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult"
+    ],
+    "budget": "150000000",
+    "run_time": "120",
+    "writer": [
+        "George Miller",
+        "Brendan McCarthy"
+    ],
+    "director": "George Miller",
+    "rank": "195",
+    "gross": "153629485",
+    "reviews_count": "1645",
+    "film_name": "Mad Max- Fury Road",
+    "country": "Australia|USA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt1392190",
+    "rating_count": 621721,
+    "filming_loc": "Namib Desert, Namibia",
+    "language": "English|Russian"
+}

@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Daniel Day-Lewis",
+        "Pete Postlethwaite",
+        "Alison Crosbie"
+    ],
+    "budget": "13000000",
+    "run_time": "133",
+    "writer": [
+        "Gerry Conlon",
+        "Terry George"
+    ],
+    "director": "Jim Sheridan",
+    "rank": "192",
+    "gross": "25010410",
+    "reviews_count": "161",
+    "film_name": "In the Name of the Father",
+    "country": "Ireland|UK|USA",
+    "genres": [
+        "Biography",
+        "Drama"
+    ],
+    "id": "tt0107207",
+    "rating_count": 117623,
+    "filming_loc": "Ardmore Studios, Herbert Road, Bray, County Wicklow, Ireland",
+    "language": "English"
+}

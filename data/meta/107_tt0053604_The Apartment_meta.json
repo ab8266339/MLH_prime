@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Jack Lemmon",
+        "Shirley MacLaine",
+        "Fred MacMurray"
+    ],
+    "budget": null,
+    "run_time": "125",
+    "writer": [
+        "Billy Wilder",
+        "I.A.L. Diamond"
+    ],
+    "director": "Billy Wilder",
+    "rank": "107",
+    "gross": null,
+    "reviews_count": "253",
+    "film_name": "The Apartment",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "id": "tt0053604",
+    "rating_count": 116737,
+    "filming_loc": "2 Broadway, Manhattan, New York City, New York, USA",
+    "language": "English"
+}

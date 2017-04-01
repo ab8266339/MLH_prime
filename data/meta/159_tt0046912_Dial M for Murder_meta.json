@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Ray Milland",
+        "Grace Kelly",
+        "Robert Cummings"
+    ],
+    "budget": "1400000",
+    "run_time": "105",
+    "writer": [
+        "Frederick Knott",
+        "Frederick Knott"
+    ],
+    "director": "Alfred Hitchcock",
+    "rank": "159",
+    "gross": "12562",
+    "reviews_count": "277",
+    "film_name": "Dial M for Murder",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Film-Noir",
+        "Thriller"
+    ],
+    "id": "tt0046912",
+    "rating_count": 114166,
+    "filming_loc": "Stage 20, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",
+    "language": "English"
+}

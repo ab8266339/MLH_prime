@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Toni Collette",
+        "Philip Seymour Hoffman",
+        "Eric Bana"
+    ],
+    "budget": null,
+    "run_time": "92",
+    "writer": [
+        "Adam Elliot"
+    ],
+    "director": "Adam Elliot",
+    "rank": "178",
+    "gross": null,
+    "reviews_count": "176",
+    "film_name": "Mary and Max",
+    "country": "Australia",
+    "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+    ],
+    "id": "tt0978762",
+    "rating_count": 127558,
+    "filming_loc": "Melbourne, Victoria, AustraliaBox OfficeBudget:        AUD\u00a08,240,000              (estimated)",
+    "language": "English|Yiddish"
+}

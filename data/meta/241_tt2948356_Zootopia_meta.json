@@ -1,0 +1,32 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Idris Elba"
+    ],
+    "budget": "150000000",
+    "run_time": "108",
+    "writer": [
+        "Byron Howard",
+        "Rich Moore"
+    ],
+    "director": "Byron Howard",
+    "rank": "241",
+    "gross": "341264012",
+    "reviews_count": "513",
+    "film_name": "Zootopia",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Crime",
+        "Family",
+        "Mystery"
+    ],
+    "id": "tt2948356",
+    "rating_count": 284191,
+    "filming_loc": "Walt Disney Animation Studios - 500 S. Buena Vista Street, Burbank, California, USA",
+    "language": "English"
+}

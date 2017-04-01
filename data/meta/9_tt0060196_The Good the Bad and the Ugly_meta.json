@@ -1,0 +1,27 @@
+{
+    "rating": 8.9,
+    "stars": [
+        "Clint Eastwood",
+        "Eli Wallach",
+        "Lee Van Cleef"
+    ],
+    "budget": "1200000",
+    "run_time": "161",
+    "writer": [
+        "Luciano Vincenzoni",
+        "Sergio Leone"
+    ],
+    "director": "Sergio Leone",
+    "rank": "9",
+    "gross": "6100000",
+    "reviews_count": "808",
+    "film_name": "The Good the Bad and the Ugly",
+    "country": "Italy|Spain|West Germany|USA",
+    "genres": [
+        "Western"
+    ],
+    "id": "tt0060196",
+    "rating_count": 532248,
+    "filming_loc": "Mini Hollywood, Tabernas, Almer\u00eda, Andaluc\u00eda, Spain",
+    "language": "Italian"
+}

@@ -1,0 +1,31 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+    ],
+    "budget": "45000000",
+    "run_time": "88",
+    "writer": [
+        "Irene Mecchi",
+        "Jonathan Roberts"
+    ],
+    "director": "Roger Allers",
+    "rank": "50",
+    "gross": "422783777",
+    "reviews_count": "684",
+    "film_name": "The Lion King",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Drama",
+        "Family",
+        "Musical"
+    ],
+    "id": "tt0110357",
+    "rating_count": 691393,
+    "filming_loc": "Walt Disney Feature Animation - 500 S. Buena Vista Street, Burbank, California, USABox OfficeBudget:        $45,000,000              (estimated)Opening Weekend:         \u00a316,650,343              (UK)      (11 November 1994)Gross:        $422,783,777              (USA)(13 January 2012)",
+    "language": "English|Swahili|Xhosa|Zulu"
+}

@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+    ],
+    "budget": "90000000",
+    "run_time": "151",
+    "writer": [
+        "William Monahan",
+        "Alan Mak"
+    ],
+    "director": "Martin Scorsese",
+    "rank": "42",
+    "gross": "132373442",
+    "reviews_count": "2080",
+    "film_name": "The Departed",
+    "country": "USA|Hong Kong",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0407887",
+    "rating_count": 927693,
+    "filming_loc": "Fore River Ship Yard, Quincy, Massachusetts, USA",
+    "language": "English|Cantonese"
+}

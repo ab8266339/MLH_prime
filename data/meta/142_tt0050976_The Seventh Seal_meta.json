@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Max von Sydow",
+        "Gunnar Bj\u00f6rnstrand",
+        "Bengt Ekerot"
+    ],
+    "budget": null,
+    "run_time": "96",
+    "writer": [
+        "Ingmar Bergman",
+        "Ingmar Bergman"
+    ],
+    "director": "Ingmar Bergman",
+    "rank": "142",
+    "gross": null,
+    "reviews_count": "279",
+    "film_name": "The Seventh Seal",
+    "country": "Sweden",
+    "genres": [
+        "Drama",
+        "Fantasy"
+    ],
+    "id": "tt0050976",
+    "rating_count": 118798,
+    "filming_loc": "Gustavsberg, V\u00e4rmd\u00f6, Stockholms l\u00e4n, Sweden",
+    "language": "Swedish|Latin"
+}

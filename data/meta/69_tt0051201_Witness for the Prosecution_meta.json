@@ -1,0 +1,30 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Tyrone Power",
+        "Marlene Dietrich",
+        "Charles Laughton"
+    ],
+    "budget": null,
+    "run_time": "116",
+    "writer": [
+        "Agatha Christie",
+        "Billy Wilder"
+    ],
+    "director": "Billy Wilder",
+    "rank": "69",
+    "gross": null,
+    "reviews_count": "210",
+    "film_name": "Witness for the Prosecution",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0051201",
+    "rating_count": 68975,
+    "filming_loc": "Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USABox OfficeBudget:        $3,000,000              (estimated)",
+    "language": "English|German"
+}

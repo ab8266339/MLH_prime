@@ -1,0 +1,29 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+    ],
+    "budget": "165000000",
+    "run_time": "169",
+    "writer": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+    ],
+    "director": "Christopher Nolan",
+    "rank": "32",
+    "gross": "187991439",
+    "reviews_count": "2847",
+    "film_name": "Interstellar",
+    "country": "USA|UK|Canada|Iceland",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "id": "tt0816692",
+    "rating_count": 1029783,
+    "filming_loc": "Okotoks, Alberta, Canada",
+    "language": "English"
+}

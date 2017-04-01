@@ -1,0 +1,29 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Anatoliy Solonitsyn",
+        "Ivan Lapikov",
+        "Nikolay Grinko"
+    ],
+    "budget": null,
+    "run_time": "165",
+    "writer": [
+        "Andrey Konchalovskiy",
+        "Andrei Tarkovsky"
+    ],
+    "director": "Andrei Tarkovsky",
+    "rank": "132",
+    "gross": null,
+    "reviews_count": "116",
+    "film_name": "Andrei Rublev",
+    "country": "Soviet Union",
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "id": "tt0060107",
+    "rating_count": 25499,
+    "filming_loc": "Andronnikov Monastery, Moscow, Russia",
+    "language": "Russian|Italian|Tatar"
+}

@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Guy Pearce",
+        "Carrie-Anne Moss",
+        "Joe Pantoliano"
+    ],
+    "budget": "9000000",
+    "run_time": "113",
+    "writer": [
+        "Christopher Nolan",
+        "Jonathan Nolan"
+    ],
+    "director": "Christopher Nolan",
+    "rank": "47",
+    "gross": "25530884",
+    "reviews_count": "2085",
+    "film_name": "Memento",
+    "country": "USA",
+    "genres": [
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0209144",
+    "rating_count": 894633,
+    "filming_loc": "Hill Crest Inn, 9111 Sepulveda Blvd, North Hills, California, USA",
+    "language": "English"
+}

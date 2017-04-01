@@ -1,0 +1,27 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Bradley Whitford"
+    ],
+    "budget": "5000000",
+    "run_time": "104",
+    "writer": [
+        "Jordan Peele"
+    ],
+    "director": "Jordan Peele",
+    "rank": "227",
+    "gross": "151073960",
+    "reviews_count": "239",
+    "film_name": "Get Out",
+    "country": "USA",
+    "genres": [
+        "Horror",
+        "Mystery"
+    ],
+    "id": "tt5052448",
+    "rating_count": 33315,
+    "filming_loc": "Alabama, USA",
+    "language": "English"
+}

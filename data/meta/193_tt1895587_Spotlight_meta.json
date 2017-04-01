@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Mark Ruffalo",
+        "Michael Keaton",
+        "Rachel McAdams"
+    ],
+    "budget": "20000000",
+    "run_time": "128",
+    "writer": [
+        "Josh Singer",
+        "Tom McCarthy"
+    ],
+    "director": "Tom McCarthy",
+    "rank": "193",
+    "gross": "44988180",
+    "reviews_count": "451",
+    "film_name": "Spotlight",
+    "country": "USA|Canada",
+    "genres": [
+        "Crime",
+        "Drama",
+        "History"
+    ],
+    "id": "tt1895587",
+    "rating_count": 260095,
+    "filming_loc": "Toronto, Ontario, Canada",
+    "language": "English"
+}

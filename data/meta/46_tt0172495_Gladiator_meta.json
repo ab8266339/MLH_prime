@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+    ],
+    "budget": "103000000",
+    "run_time": "155",
+    "writer": [
+        "David Franzoni",
+        "David Franzoni"
+    ],
+    "director": "Ridley Scott",
+    "rank": "46",
+    "gross": "187670866",
+    "reviews_count": "2387",
+    "film_name": "Gladiator",
+    "country": "USA|UK",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "id": "tt0172495",
+    "rating_count": 1042570,
+    "filming_loc": "Morocco",
+    "language": "English"
+}

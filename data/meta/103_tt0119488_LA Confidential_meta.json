@@ -1,0 +1,30 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Kevin Spacey",
+        "Russell Crowe",
+        "Guy Pearce"
+    ],
+    "budget": "35000000",
+    "run_time": "138",
+    "writer": [
+        "James Ellroy",
+        "Brian Helgeland"
+    ],
+    "director": "Curtis Hanson",
+    "rank": "103",
+    "gross": "64604977",
+    "reviews_count": "635",
+    "film_name": "LA Confidential",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0119488",
+    "rating_count": 434856,
+    "filming_loc": "501 Wilcox Avenue, Los Angeles, California, USA",
+    "language": "English"
+}

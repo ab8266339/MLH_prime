@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Leonardo DiCaprio",
+        "Emily Mortimer",
+        "Mark Ruffalo"
+    ],
+    "budget": "80000000",
+    "run_time": "138",
+    "writer": [
+        "Laeta Kalogridis",
+        "Dennis Lehane"
+    ],
+    "director": "Martin Scorsese",
+    "rank": "183",
+    "gross": "127968405",
+    "reviews_count": "986",
+    "film_name": "Shutter Island",
+    "country": "USA",
+    "genres": [
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt1130884",
+    "rating_count": 844799,
+    "filming_loc": "433 So Spring st Los Angeles, California, USA",
+    "language": "English|German"
+}

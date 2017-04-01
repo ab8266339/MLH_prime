@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Russell Crowe",
+        "Ed Harris",
+        "Jennifer Connelly"
+    ],
+    "budget": "58000000",
+    "run_time": "135",
+    "writer": [
+        "Akiva Goldsman",
+        "Sylvia Nasar"
+    ],
+    "director": "Ron Howard",
+    "rank": "147",
+    "gross": "170708996",
+    "reviews_count": "1186",
+    "film_name": "A Beautiful Mind",
+    "country": "USA",
+    "genres": [
+        "Biography",
+        "Drama"
+    ],
+    "id": "tt0268978",
+    "rating_count": 654195,
+    "filming_loc": "Bayonne, New Jersey, USA",
+    "language": "English"
+}

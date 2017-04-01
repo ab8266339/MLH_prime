@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Charles Chaplin",
+        "Mack Swain",
+        "Tom Murray"
+    ],
+    "budget": null,
+    "run_time": "95",
+    "writer": [
+        "Charles Chaplin"
+    ],
+    "director": "Charles Chaplin",
+    "rank": "134",
+    "gross": null,
+    "reviews_count": "151",
+    "film_name": "The Gold Rush",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "id": "tt0015864",
+    "rating_count": 72724,
+    "filming_loc": "California, USA",
+    "language": "English"
+}

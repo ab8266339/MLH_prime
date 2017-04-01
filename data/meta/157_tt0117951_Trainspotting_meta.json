@@ -1,0 +1,27 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Ewan McGregor",
+        "Ewen Bremner",
+        "Jonny Lee Miller"
+    ],
+    "budget": "3500000",
+    "run_time": "94",
+    "writer": [
+        "John Hodge",
+        "Irvine Welsh"
+    ],
+    "director": "Danny Boyle",
+    "rank": "157",
+    "gross": "16501785",
+    "reviews_count": "545",
+    "film_name": "Trainspotting",
+    "country": "UK",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0117951",
+    "rating_count": 508098,
+    "filming_loc": "78A Talgarth Road, West Kensington, London, England, UK",
+    "language": "English"
+}

@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Bruce Willis",
+        "Alan Rickman",
+        "Bonnie Bedelia"
+    ],
+    "budget": "28000000",
+    "run_time": "131",
+    "writer": [
+        "Roderick Thorp",
+        "Jeb Stuart"
+    ],
+    "director": "John McTiernan",
+    "rank": "122",
+    "gross": "81350242",
+    "reviews_count": "728",
+    "film_name": "Die Hard",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "id": "tt0095016",
+    "rating_count": 625238,
+    "filming_loc": "Los Angeles International Airport - 1 World Way, Los Angeles, California, USA",
+    "language": "English|German|Italian"
+}

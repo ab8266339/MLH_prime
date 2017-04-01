@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "George O'Brien",
+        "Janet Gaynor",
+        "Margaret Livingston"
+    ],
+    "budget": null,
+    "run_time": "94",
+    "writer": [
+        "Carl Mayer",
+        "Hermann Sudermann"
+    ],
+    "director": "F.W. Murnau",
+    "rank": "156",
+    "gross": null,
+    "reviews_count": "210",
+    "film_name": "Sunrise",
+    "country": null,
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "id": "tt0018455",
+    "rating_count": 31953,
+    "filming_loc": "Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA",
+    "language": null
+}

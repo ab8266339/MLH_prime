@@ -1,0 +1,28 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Charles Chaplin",
+        "Virginia Cherrill",
+        "Florence Lee"
+    ],
+    "budget": null,
+    "run_time": "87",
+    "writer": [
+        "Charles Chaplin"
+    ],
+    "director": "Charles Chaplin",
+    "rank": "34",
+    "gross": null,
+    "reviews_count": "226",
+    "film_name": "City Lights",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "id": "tt0021749",
+    "rating_count": 116857,
+    "filming_loc": "Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA",
+    "language": "English"
+}

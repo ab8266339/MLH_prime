@@ -1,0 +1,28 @@
+{
+    "rating": 9.2,
+    "stars": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+    ],
+    "budget": "6000000",
+    "run_time": "175",
+    "writer": [
+        "Mario Puzo",
+        "Francis Ford Coppola"
+    ],
+    "director": "Francis Ford Coppola",
+    "rank": "2",
+    "gross": "134821952",
+    "reviews_count": "2369",
+    "film_name": "The Godfather",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0068646",
+    "rating_count": 1223850,
+    "filming_loc": "NY Eye and Ear Infirmary, 2nd Avenue &amp; East 13th Street, New York City, New York, USA",
+    "language": "English|Italian|Latin"
+}

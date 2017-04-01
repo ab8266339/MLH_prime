@@ -1,0 +1,28 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd"
+    ],
+    "budget": null,
+    "run_time": "144",
+    "writer": [
+        "Stephen King",
+        "Stanley Kubrick"
+    ],
+    "director": "Stanley Kubrick",
+    "rank": "60",
+    "gross": null,
+    "reviews_count": "1354",
+    "film_name": "The Shining",
+    "country": "UK|USA",
+    "genres": [
+        "Drama",
+        "Horror"
+    ],
+    "id": "tt0081505",
+    "rating_count": 651965,
+    "filming_loc": "Stansted Airport, Essex, England, UK",
+    "language": "English"
+}

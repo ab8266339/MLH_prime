@@ -1,0 +1,27 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Robin Williams",
+        "Matt Damon",
+        "Ben Affleck"
+    ],
+    "budget": "10000000",
+    "run_time": "126",
+    "writer": [
+        "Matt Damon",
+        "Ben Affleck"
+    ],
+    "director": "Gus Van Sant",
+    "rank": "108",
+    "gross": "138339411",
+    "reviews_count": "702",
+    "film_name": "Good Will Hunting",
+    "country": "USA",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0119217",
+    "rating_count": 647393,
+    "filming_loc": "Massachusetts Turnpike, Massachusetts, USA",
+    "language": "English"
+}

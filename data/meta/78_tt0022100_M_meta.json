@@ -1,0 +1,30 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Peter Lorre",
+        "Ellen Widmann",
+        "Inge Landgut"
+    ],
+    "budget": null,
+    "run_time": "117",
+    "writer": [
+        "Thea von Harbou",
+        "Fritz Lang"
+    ],
+    "director": "Fritz Lang",
+    "rank": "78",
+    "gross": "28877",
+    "reviews_count": "298",
+    "film_name": "M",
+    "country": "Germany",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0022100",
+    "rating_count": 105199,
+    "filming_loc": "Staaken, Spandau, Berlin, GermanyBox OfficeOpening Weekend:         $6,123              (USA)      (15 March 2013)Gross:        $28,877              (USA)(31 May 2013)",
+    "language": "German"
+}

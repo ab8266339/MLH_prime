@@ -1,0 +1,31 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Steve McQueen",
+        "James Garner",
+        "Richard Attenborough"
+    ],
+    "budget": null,
+    "run_time": "172",
+    "writer": [
+        "Paul Brickhill",
+        "James Clavell"
+    ],
+    "director": "John Sturges",
+    "rank": "126",
+    "gross": null,
+    "reviews_count": "304",
+    "film_name": "The Great Escape",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+    ],
+    "id": "tt0057115",
+    "rating_count": 175323,
+    "filming_loc": "Bavaria Studios, Bavariafilmplatz 7, Geiselgasteig, Gr\u00fcnwald, Bavaria, Germany",
+    "language": "English|German|French|Russian|Spanish"
+}

@@ -1,0 +1,27 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Tom Sizemore"
+    ],
+    "budget": "70000000",
+    "run_time": "169",
+    "writer": [
+        "Robert Rodat"
+    ],
+    "director": "Steven Spielberg",
+    "rank": "29",
+    "gross": "216119491",
+    "reviews_count": "2310",
+    "film_name": "Saving Private Ryan",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "id": "tt0120815",
+    "rating_count": 939986,
+    "filming_loc": "Calvados, France",
+    "language": "English|French|German|Czech"
+}

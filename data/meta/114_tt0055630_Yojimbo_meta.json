@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Toshir\u00f4 Mifune",
+        "Eijir\u00f4 T\u00f4no",
+        "Tatsuya Nakadai"
+    ],
+    "budget": null,
+    "run_time": "110",
+    "writer": [
+        "Akira Kurosawa",
+        "Akira Kurosawa"
+    ],
+    "director": "Akira Kurosawa",
+    "rank": "114",
+    "gross": null,
+    "reviews_count": "162",
+    "film_name": "Yojimbo",
+    "country": "Japan",
+    "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0055630",
+    "rating_count": 78525,
+    "filming_loc": "Japan",
+    "language": "Japanese"
+}

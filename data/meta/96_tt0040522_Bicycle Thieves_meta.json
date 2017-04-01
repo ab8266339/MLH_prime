@@ -1,0 +1,27 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Lamberto Maggiorani",
+        "Enzo Staiola",
+        "Lianella Carell"
+    ],
+    "budget": "133000",
+    "run_time": "89",
+    "writer": [
+        "Cesare Zavattini",
+        "Luigi Bartolini"
+    ],
+    "director": "Vittorio De Sica",
+    "rank": "96",
+    "gross": "332930",
+    "reviews_count": "235",
+    "film_name": "Bicycle Thieves",
+    "country": "Italy",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0040522",
+    "rating_count": 101453,
+    "filming_loc": "Citta Valmelaina, Via Salaria, Rome, Lazio, Italy",
+    "language": "Italian"
+}

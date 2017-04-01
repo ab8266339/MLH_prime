@@ -1,0 +1,27 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Emma Stone",
+        "Viola Davis",
+        "Octavia Spencer"
+    ],
+    "budget": "25000000",
+    "run_time": "146",
+    "writer": [
+        "Tate Taylor",
+        "Kathryn Stockett"
+    ],
+    "director": "Tate Taylor",
+    "rank": "245",
+    "gross": "169705587",
+    "reviews_count": "475",
+    "film_name": "The Help",
+    "country": "USA|India|United Arab Emirates",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt1454029",
+    "rating_count": 338973,
+    "filming_loc": "Clarksdale, Mississippi, USA",
+    "language": "English"
+}

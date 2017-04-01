@@ -1,0 +1,27 @@
+{
+    "rating": 8.8,
+    "stars": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+    ],
+    "budget": "63000000",
+    "run_time": "139",
+    "writer": [
+        "Chuck Palahniuk",
+        "Jim Uhls"
+    ],
+    "director": "David Fincher",
+    "rank": "10",
+    "gross": "37023395",
+    "reviews_count": "3025",
+    "film_name": "Fight Club",
+    "country": "USA|Germany",
+    "genres": [
+        "Drama"
+    ],
+    "id": "tt0137523",
+    "rating_count": 1434477,
+    "filming_loc": "421 W. Eighth Street, Los Angeles, California, USA",
+    "language": "English"
+}

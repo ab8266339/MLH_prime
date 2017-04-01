@@ -1,0 +1,30 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Ben Burtt",
+        "Elissa Knight",
+        "Jeff Garlin"
+    ],
+    "budget": "180000000",
+    "run_time": "98",
+    "writer": [
+        "Andrew Stanton",
+        "Pete Docter"
+    ],
+    "director": "Andrew Stanton",
+    "rank": "62",
+    "gross": "223806889",
+    "reviews_count": "1051",
+    "film_name": "WALLE",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Sci-Fi"
+    ],
+    "id": "tt0910970",
+    "rating_count": 767769,
+    "filming_loc": "Pixar Animation Studios - 1200 Park Avenue, Emeryville, California, USA",
+    "language": "English"
+}

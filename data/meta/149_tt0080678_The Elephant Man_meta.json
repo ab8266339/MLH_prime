@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Anthony Hopkins",
+        "John Hurt",
+        "Anne Bancroft"
+    ],
+    "budget": null,
+    "run_time": "124",
+    "writer": [
+        "Christopher De Vore",
+        "Eric Bergren"
+    ],
+    "director": "David Lynch",
+    "rank": "149",
+    "gross": null,
+    "reviews_count": "363",
+    "film_name": "The Elephant Man",
+    "country": "USA|UK",
+    "genres": [
+        "Biography",
+        "Drama"
+    ],
+    "id": "tt0080678",
+    "rating_count": 171577,
+    "filming_loc": "Broadgate, London, England, UK",
+    "language": "English"
+}

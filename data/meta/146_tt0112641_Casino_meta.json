@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Robert De Niro",
+        "Sharon Stone",
+        "Joe Pesci"
+    ],
+    "budget": "52000000",
+    "run_time": "178",
+    "writer": [
+        "Nicholas Pileggi",
+        "Nicholas Pileggi"
+    ],
+    "director": "Martin Scorsese",
+    "rank": "146",
+    "gross": "42438300",
+    "reviews_count": "547",
+    "film_name": "Casino",
+    "country": "France|USA",
+    "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0112641",
+    "rating_count": 354161,
+    "filming_loc": "The Pepermill Fireside Lounge",
+    "language": "English"
+}

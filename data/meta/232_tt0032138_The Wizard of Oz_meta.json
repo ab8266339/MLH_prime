@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Judy Garland",
+        "Frank Morgan",
+        "Ray Bolger"
+    ],
+    "budget": "2800000",
+    "run_time": "102",
+    "writer": [
+        "Noel Langley",
+        "Florence Ryerson"
+    ],
+    "director": "Victor Fleming",
+    "rank": "232",
+    "gross": "22202612",
+    "reviews_count": "544",
+    "film_name": "The Wizard of Oz",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Musical"
+    ],
+    "id": "tt0032138",
+    "rating_count": 307278,
+    "filming_loc": "Culver City, California, USA",
+    "language": "English"
+}

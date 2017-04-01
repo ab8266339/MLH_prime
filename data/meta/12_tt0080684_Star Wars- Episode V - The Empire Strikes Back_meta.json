@@ -1,0 +1,30 @@
+{
+    "rating": 8.8,
+    "stars": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+    ],
+    "budget": "18000000",
+    "run_time": "124",
+    "writer": [
+        "Leigh Brackett",
+        "Lawrence Kasdan"
+    ],
+    "director": "Irvin Kershner",
+    "rank": "12",
+    "gross": "290158751",
+    "reviews_count": "921",
+    "film_name": "Star Wars- Episode V - The Empire Strikes Back",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "id": "tt0080684",
+    "rating_count": 894996,
+    "filming_loc": "Banks, Oregon, USA",
+    "language": "English"
+}

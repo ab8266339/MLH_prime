@@ -1,0 +1,32 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Buster Keaton",
+        "Marion Mack",
+        "Glen Cavender"
+    ],
+    "budget": null,
+    "run_time": "67",
+    "writer": [
+        "Buster Keaton",
+        "Clyde Bruckman"
+    ],
+    "director": "Clyde Bruckman",
+    "rank": "152",
+    "gross": null,
+    "reviews_count": "248",
+    "film_name": "The General",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "War",
+        "Western"
+    ],
+    "id": "tt0017925",
+    "rating_count": 57144,
+    "filming_loc": "34560 Row River Rd., Cottage Grove, Oregon, USA",
+    "language": "English"
+}

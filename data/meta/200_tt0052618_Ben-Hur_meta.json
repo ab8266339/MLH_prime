@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Charlton Heston",
+        "Jack Hawkins",
+        "Stephen Boyd"
+    ],
+    "budget": "15900000",
+    "run_time": "212",
+    "writer": [
+        "Lew Wallace",
+        "Karl Tunberg"
+    ],
+    "director": "William Wyler",
+    "rank": "200",
+    "gross": "70000000",
+    "reviews_count": "387",
+    "film_name": "Ben-Hur",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "id": "tt0052618",
+    "rating_count": 171701,
+    "filming_loc": "Anzio, Italy",
+    "language": "English"
+}

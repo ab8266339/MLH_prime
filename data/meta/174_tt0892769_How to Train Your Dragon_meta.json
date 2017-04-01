@@ -1,0 +1,32 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Jay Baruchel",
+        "Gerard Butler",
+        "Christopher Mintz-Plasse"
+    ],
+    "budget": "165000000",
+    "run_time": "98",
+    "writer": [
+        "William Davies",
+        "Dean DeBlois"
+    ],
+    "director": "Dean DeBlois",
+    "rank": "174",
+    "gross": "217387997",
+    "reviews_count": "502",
+    "film_name": "How to Train Your Dragon",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "id": "tt0892769",
+    "rating_count": 518039,
+    "filming_loc": null,
+    "language": "English"
+}

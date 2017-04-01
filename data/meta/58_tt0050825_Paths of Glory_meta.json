@@ -1,0 +1,28 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Kirk Douglas",
+        "Ralph Meeker",
+        "Adolphe Menjou"
+    ],
+    "budget": null,
+    "run_time": "88",
+    "writer": [
+        "Stanley Kubrick",
+        "Calder Willingham"
+    ],
+    "director": "Stanley Kubrick",
+    "rank": "58",
+    "gross": null,
+    "reviews_count": "355",
+    "film_name": "Paths of Glory",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "id": "tt0050825",
+    "rating_count": 129021,
+    "filming_loc": "Munich, Bavaria, Germany",
+    "language": "English|German|Latin"
+}

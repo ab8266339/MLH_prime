@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette"
+    ],
+    "budget": "40000000",
+    "run_time": "107",
+    "writer": [
+        "M. Night Shyamalan"
+    ],
+    "director": "M. Night Shyamalan",
+    "rank": "168",
+    "gross": "293501675",
+    "reviews_count": "2093",
+    "film_name": "The Sixth Sense",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0167404",
+    "rating_count": 741758,
+    "filming_loc": "Blue Bell, Pennsylvania, USA",
+    "language": "English|Latin|Spanish"
+}

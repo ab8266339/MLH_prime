@@ -1,0 +1,31 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Joan Cusack"
+    ],
+    "budget": "200000000",
+    "run_time": "103",
+    "writer": [
+        "John Lasseter",
+        "Andrew Stanton"
+    ],
+    "director": "Lee Unkrich",
+    "rank": "89",
+    "gross": "414984497",
+    "reviews_count": "741",
+    "film_name": "Toy Story 3",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "id": "tt0435761",
+    "rating_count": 580106,
+    "filming_loc": "Pixar Animation Studios - 1200 Park Avenue, Emeryville, California, USA",
+    "language": "English|Spanish"
+}

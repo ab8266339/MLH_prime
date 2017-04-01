@@ -1,0 +1,30 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Manoj Bajpayee",
+        "Richa Chadha",
+        "Nawazuddin Siddiqui"
+    ],
+    "budget": null,
+    "run_time": "320",
+    "writer": [
+        "Akhilesh Jaiswal",
+        "Anurag Kashyap"
+    ],
+    "director": "Anurag Kashyap",
+    "rank": "244",
+    "gross": null,
+    "reviews_count": "167",
+    "film_name": "Gangs of Wasseypur",
+    "country": "India",
+    "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt1954470",
+    "rating_count": 51955,
+    "filming_loc": "Varanasi, Uttar Pradesh, IndiaBox OfficeBudget:        INR\u00a0184,000,000              (estimated)",
+    "language": "Hindi"
+}

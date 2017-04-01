@@ -1,0 +1,28 @@
+{
+    "rating": 8.7,
+    "stars": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+    ],
+    "budget": "63000000",
+    "run_time": "136",
+    "writer": [
+        "Lilly Wachowski",
+        "Lana Wachowski"
+    ],
+    "director": "Lana Wachowski",
+    "rank": "18",
+    "gross": "171383253",
+    "reviews_count": "3695",
+    "film_name": "The Matrix",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "id": "tt0133093",
+    "rating_count": 1290711,
+    "filming_loc": "AON Tower, Kent Street, Sydney, New South Wales, Australia",
+    "language": "English"
+}

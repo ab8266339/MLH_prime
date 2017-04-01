@@ -1,0 +1,30 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Sigourney Weaver",
+        "Michael Biehn",
+        "Carrie Henn"
+    ],
+    "budget": "18500000",
+    "run_time": "137",
+    "writer": [
+        "James Cameron",
+        "David Giler"
+    ],
+    "director": "James Cameron",
+    "rank": "66",
+    "gross": "85200000",
+    "reviews_count": "1101",
+    "film_name": "Aliens",
+    "country": "USA|UK",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt0090605",
+    "rating_count": 515509,
+    "filming_loc": "Acton Lane Power Station, Acton Lane, Acton, London, England, UK",
+    "language": "English"
+}

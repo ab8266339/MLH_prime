@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Tom Hardy",
+        "Nick Nolte",
+        "Joel Edgerton"
+    ],
+    "budget": "25000000",
+    "run_time": "140",
+    "writer": [
+        "Gavin O'Connor",
+        "Anthony Tambakis"
+    ],
+    "director": "Gavin O'Connor",
+    "rank": "153",
+    "gross": "13651662",
+    "reviews_count": "524",
+    "film_name": "Warrior",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+    ],
+    "id": "tt1291584",
+    "rating_count": 352011,
+    "filming_loc": "Santa Clarita, California, USA",
+    "language": "English|Spanish"
+}

@@ -1,0 +1,31 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Simone Signoret",
+        "V\u00e9ra Clouzot",
+        "Paul Meurisse"
+    ],
+    "budget": null,
+    "run_time": "117",
+    "writer": [
+        "Pierre Boileau",
+        "Thomas Narcejac"
+    ],
+    "director": "Henri-Georges Clouzot",
+    "rank": "224",
+    "gross": null,
+    "reviews_count": "155",
+    "film_name": "Diabolique",
+    "country": "France",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0046911",
+    "rating_count": 44876,
+    "filming_loc": "Rue Jean Mermoz, L'\u00c9tang-la-Ville, Yvelines, France",
+    "language": "French|English"
+}

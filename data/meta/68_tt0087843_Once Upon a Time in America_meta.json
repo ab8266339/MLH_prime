@@ -1,0 +1,28 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Robert De Niro",
+        "James Woods",
+        "Elizabeth McGovern"
+    ],
+    "budget": "30000000",
+    "run_time": "229",
+    "writer": [
+        "Harry Grey",
+        "Leonardo Benvenuti"
+    ],
+    "director": "Sergio Leone",
+    "rank": "68",
+    "gross": "5300000",
+    "reviews_count": "513",
+    "film_name": "Once Upon a Time in America",
+    "country": "Italy|USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0087843",
+    "rating_count": 234667,
+    "filming_loc": "Intersection of Washington Street and Water Street, Dumbo, Brooklyn, New York City, New York, USA",
+    "language": "English|Italian|French"
+}

@@ -1,0 +1,29 @@
+{
+    "rating": 8.0,
+    "stars": [
+        "Bill Murray",
+        "Andie MacDowell",
+        "Chris Elliott"
+    ],
+    "budget": "14600000",
+    "run_time": "101",
+    "writer": [
+        "Danny Rubin",
+        "Harold Ramis"
+    ],
+    "director": "Harold Ramis",
+    "rank": "233",
+    "gross": "70906973",
+    "reviews_count": "628",
+    "film_name": "Groundhog Day",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+    ],
+    "id": "tt0107048",
+    "rating_count": 466044,
+    "filming_loc": "344 Fremont St, Woodstock, Illinois, USA",
+    "language": "English|French|Italian"
+}

@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Adrien Brody",
+        "Thomas Kretschmann",
+        "Frank Finlay"
+    ],
+    "budget": "35000000",
+    "run_time": "150",
+    "writer": [
+        "Ronald Harwood",
+        "Wladyslaw Szpilman"
+    ],
+    "director": "Roman Polanski",
+    "rank": "41",
+    "gross": "32519322",
+    "reviews_count": "777",
+    "film_name": "The Pianist",
+    "country": "France|Poland|Germany|UK",
+    "genres": [
+        "Biography",
+        "Drama",
+        "War"
+    ],
+    "id": "tt0253474",
+    "rating_count": 534778,
+    "filming_loc": "Germany",
+    "language": "English|German|Russian"
+}

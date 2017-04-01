@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Charlton Heston",
+        "Orson Welles",
+        "Janet Leigh"
+    ],
+    "budget": "829000",
+    "run_time": "95",
+    "writer": [
+        "Orson Welles",
+        "Whit Masterson"
+    ],
+    "director": "Orson Welles",
+    "rank": "218",
+    "gross": "2237659",
+    "reviews_count": "280",
+    "film_name": "Touch of Evil",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir",
+        "Thriller"
+    ],
+    "id": "tt0052311",
+    "rating_count": 76998,
+    "filming_loc": "Universal Studios - 100 Universal City Plaza, Universal City, California, USA",
+    "language": "English|Spanish"
+}

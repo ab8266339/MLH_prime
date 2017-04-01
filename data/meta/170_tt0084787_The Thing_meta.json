@@ -1,0 +1,29 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "Keith David"
+    ],
+    "budget": "15000000",
+    "run_time": "109",
+    "writer": [
+        "Bill Lancaster",
+        "John W. Campbell Jr."
+    ],
+    "director": "John Carpenter",
+    "rank": "170",
+    "gross": "13782838",
+    "reviews_count": "937",
+    "film_name": "The Thing",
+    "country": "USA",
+    "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+    ],
+    "id": "tt0084787",
+    "rating_count": 275559,
+    "filming_loc": "Juneau, Alaska, USA",
+    "language": "English|Norwegian"
+}

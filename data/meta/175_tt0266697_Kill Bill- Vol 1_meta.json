@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Uma Thurman",
+        "David Carradine",
+        "Daryl Hannah"
+    ],
+    "budget": "30000000",
+    "run_time": "111",
+    "writer": [
+        "Quentin Tarantino",
+        "Quentin Tarantino"
+    ],
+    "director": "Quentin Tarantino",
+    "rank": "175",
+    "gross": "70098138",
+    "reviews_count": "2131",
+    "film_name": "Kill Bill- Vol 1",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "id": "tt0266697",
+    "rating_count": 778671,
+    "filming_loc": "American Cement Building, 2404 Wilshire Boulevard, Los Angeles, California, USA",
+    "language": "English|Japanese|French"
+}

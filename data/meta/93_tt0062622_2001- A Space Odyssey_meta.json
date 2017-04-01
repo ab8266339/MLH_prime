@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Keir Dullea",
+        "Gary Lockwood",
+        "William Sylvester"
+    ],
+    "budget": "12000000",
+    "run_time": "149",
+    "writer": [
+        "Stanley Kubrick",
+        "Arthur C. Clarke"
+    ],
+    "director": "Stanley Kubrick",
+    "rank": "93",
+    "gross": "56715371",
+    "reviews_count": "1773",
+    "film_name": "2001- A Space Odyssey",
+    "country": "UK|USA",
+    "genres": [
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "id": "tt0062622",
+    "rating_count": 454716,
+    "filming_loc": "Desierto de Tabernas, Almer\u00eda, Andaluc\u00eda, Spain",
+    "language": "English|Russian"
+}

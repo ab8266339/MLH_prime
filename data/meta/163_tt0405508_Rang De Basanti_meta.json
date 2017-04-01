@@ -1,0 +1,30 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Aamir Khan",
+        "Soha Ali Khan",
+        "Siddharth"
+    ],
+    "budget": null,
+    "run_time": "157",
+    "writer": [
+        "Renzil D'Silva",
+        "Prasoon Joshi"
+    ],
+    "director": "Rakeysh Omprakash Mehra",
+    "rank": "163",
+    "gross": "2197331",
+    "reviews_count": "324",
+    "film_name": "Rang De Basanti",
+    "country": "India",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "History",
+        "Romance"
+    ],
+    "id": "tt0405508",
+    "rating_count": 78840,
+    "filming_loc": "Nahargarh Fort, Jaipur, Rajasthan, India",
+    "language": "Hindi|Panjabi|English"
+}

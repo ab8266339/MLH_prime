@@ -1,0 +1,29 @@
+{
+    "rating": 8.7,
+    "stars": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+    ],
+    "budget": "94000000",
+    "run_time": "179",
+    "writer": [
+        "J.R.R. Tolkien",
+        "Fran Walsh"
+    ],
+    "director": "Peter Jackson",
+    "rank": "15",
+    "gross": "340478898",
+    "reviews_count": "2425",
+    "film_name": "The Lord of the Rings- The Two Towers",
+    "country": "USA|New Zealand",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "id": "tt0167261",
+    "rating_count": 1165525,
+    "filming_loc": "Mount Sunday, Canterbury, South Island, New Zealand",
+    "language": "English|Sindarin|Old English"
+}

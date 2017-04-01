@@ -1,0 +1,29 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Chazz Palminteri"
+    ],
+    "budget": "6000000",
+    "run_time": "106",
+    "writer": [
+        "Christopher McQuarrie"
+    ],
+    "director": "Bryan Singer",
+    "rank": "26",
+    "gross": "23272306",
+    "reviews_count": "1210",
+    "film_name": "The Usual Suspects",
+    "country": "USA|Germany",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0114814",
+    "rating_count": 785317,
+    "filming_loc": "Los Angeles, California, USA",
+    "language": "English|Hungarian|Spanish|French"
+}

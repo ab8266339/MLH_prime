@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Charles Chaplin",
+        "Paulette Goddard",
+        "Henry Bergman"
+    ],
+    "budget": "1500000",
+    "run_time": "87",
+    "writer": [
+        "Charles Chaplin"
+    ],
+    "director": "Charles Chaplin",
+    "rank": "38",
+    "gross": "163245",
+    "reviews_count": "223",
+    "film_name": "Modern Times",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Family",
+        "Romance"
+    ],
+    "id": "tt0027977",
+    "rating_count": 154388,
+    "filming_loc": "Santa Clarita, California, USA",
+    "language": "English"
+}

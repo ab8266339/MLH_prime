@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Hitoshi Takagi",
+        "Noriko Hidaka",
+        "Chika Sakamoto"
+    ],
+    "budget": null,
+    "run_time": "86",
+    "writer": [
+        "Hayao Miyazaki"
+    ],
+    "director": "Hayao Miyazaki",
+    "rank": "131",
+    "gross": null,
+    "reviews_count": "318",
+    "film_name": "My Neighbor Totoro",
+    "country": "Japan",
+    "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+    ],
+    "id": "tt0096283",
+    "rating_count": 188515,
+    "filming_loc": null,
+    "language": "Japanese"
+}

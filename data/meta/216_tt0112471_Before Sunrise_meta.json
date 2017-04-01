@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Ethan Hawke",
+        "Julie Delpy",
+        "Andrea Eckert"
+    ],
+    "budget": "2500000",
+    "run_time": "101",
+    "writer": [
+        "Richard Linklater",
+        "Kim Krizan"
+    ],
+    "director": "Richard Linklater",
+    "rank": "216",
+    "gross": "5400000",
+    "reviews_count": "403",
+    "film_name": "Before Sunrise",
+    "country": "USA|Austria|Switzerland",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "id": "tt0112471",
+    "rating_count": 197227,
+    "filming_loc": "Austria",
+    "language": "English|German|French"
+}

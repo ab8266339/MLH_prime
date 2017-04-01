@@ -1,0 +1,30 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Andrew Garfield",
+        "Sam Worthington",
+        "Luke Bracey"
+    ],
+    "budget": "40000000",
+    "run_time": "139",
+    "writer": [
+        "Robert Schenkkan",
+        "Andrew Knight"
+    ],
+    "director": "Mel Gibson",
+    "rank": "154",
+    "gross": "67115062",
+    "reviews_count": "490",
+    "film_name": "Hacksaw Ridge",
+    "country": "Australia|USA",
+    "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "id": "tt2119532",
+    "rating_count": 182106,
+    "filming_loc": "Sydney, New South Wales, Australia",
+    "language": "English|Japanese"
+}

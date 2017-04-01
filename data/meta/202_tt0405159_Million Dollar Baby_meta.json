@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Hilary Swank",
+        "Clint Eastwood",
+        "Morgan Freeman"
+    ],
+    "budget": "30000000",
+    "run_time": "132",
+    "writer": [
+        "Paul Haggis",
+        "F.X. Toole"
+    ],
+    "director": "Clint Eastwood",
+    "rank": "202",
+    "gross": "100422786",
+    "reviews_count": "1113",
+    "film_name": "Million Dollar Baby",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Sport"
+    ],
+    "id": "tt0405159",
+    "rating_count": 510775,
+    "filming_loc": "Hollywood Athletic Club - 6525 W. Sunset Blvd., Hollywood, Los Angeles, California, USA",
+    "language": "English|Irish"
+}

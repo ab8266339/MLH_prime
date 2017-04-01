@@ -1,0 +1,29 @@
+{
+    "rating": 8.8,
+    "stars": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom"
+    ],
+    "budget": "93000000",
+    "run_time": "178",
+    "writer": [
+        "J.R.R. Tolkien",
+        "Fran Walsh"
+    ],
+    "director": "Peter Jackson",
+    "rank": "11",
+    "gross": "313837577",
+    "reviews_count": "5082",
+    "film_name": "The Lord of the Rings- The Fellowship of the Ring",
+    "country": "New Zealand|USA",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "id": "tt0120737",
+    "rating_count": 1307804,
+    "filming_loc": "Fort Dorset, Miramar, Wellington, New Zealand",
+    "language": "English|Sindarin"
+}

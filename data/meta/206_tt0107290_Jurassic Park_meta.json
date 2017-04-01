@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum"
+    ],
+    "budget": "63000000",
+    "run_time": "127",
+    "writer": [
+        "Michael Crichton",
+        "Michael Crichton"
+    ],
+    "director": "Steven Spielberg",
+    "rank": "206",
+    "gross": "356784000",
+    "reviews_count": "922",
+    "film_name": "Jurassic Park",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt0107290",
+    "rating_count": 656899,
+    "filming_loc": "Jurassic Kahili Ranch, Kilauea, Kauai, Hawaii, USA",
+    "language": "English|Spanish"
+}

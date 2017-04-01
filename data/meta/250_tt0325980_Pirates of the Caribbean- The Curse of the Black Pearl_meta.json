@@ -1,0 +1,29 @@
+{
+    "film_name": "Pirates of the Caribbean- The Curse of the Black Pearl",
+    "stars": [
+        "Johnny Depp",
+        "Geoffrey Rush",
+        "Orlando Bloom"
+    ],
+    "director": "Gore Verbinski",
+    "filming_loc": "Bequia, St Vincent and the Grenadines",
+    "run_time": "143",
+    "budget": "140000000",
+    "gross": "305388685",
+    "country": "USA",
+    "rating_count": 851971,
+    "id": "tt0325980",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "rating": 8.0,
+    "language": "English",
+    "writer": [
+        "Ted Elliott",
+        "Terry Rossio"
+    ],
+    "reviews_count": "2128",
+    "rank": "250"
+}

@@ -1,0 +1,32 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Amy Poehler",
+        "Bill Hader",
+        "Lewis Black"
+    ],
+    "budget": "175000000",
+    "run_time": "95",
+    "writer": [
+        "Pete Docter",
+        "Ronnie Del Carmen"
+    ],
+    "director": "Pete Docter",
+    "rank": "130",
+    "gross": "356454367",
+    "reviews_count": "807",
+    "film_name": "Inside Out",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "id": "tt2096673",
+    "rating_count": 407023,
+    "filming_loc": "Pixar Animation Studios - 1200 Park Avenue, Emeryville, California, USABox OfficeBudget:        $175,000,000              (estimated)Opening Weekend:         $90,440,272              (USA)      (19 June 2015)Gross:        $356,454,367              (USA)(4 December 2015)",
+    "language": "English"
+}

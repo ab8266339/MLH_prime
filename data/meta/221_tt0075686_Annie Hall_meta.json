@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Woody Allen",
+        "Diane Keaton",
+        "Tony Roberts"
+    ],
+    "budget": "4000000",
+    "run_time": "93",
+    "writer": [
+        "Woody Allen",
+        "Marshall Brickman"
+    ],
+    "director": "Woody Allen",
+    "rank": "221",
+    "gross": "39200000",
+    "reviews_count": "501",
+    "film_name": "Annie Hall",
+    "country": "USA",
+    "genres": [
+        "Comedy",
+        "Romance"
+    ],
+    "id": "tt0075686",
+    "rating_count": 205473,
+    "filming_loc": "W. Century Blvd. &amp; Airport Blvd, Los Angeles, California, USA",
+    "language": "English|German"
+}

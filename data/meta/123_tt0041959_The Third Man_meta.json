@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Orson Welles",
+        "Joseph Cotten",
+        "Alida Valli"
+    ],
+    "budget": null,
+    "run_time": "104",
+    "writer": [
+        "Graham Greene",
+        "Graham Greene"
+    ],
+    "director": "Carol Reed",
+    "rank": "123",
+    "gross": "449191",
+    "reviews_count": "414",
+    "film_name": "The Third Man",
+    "country": "UK",
+    "genres": [
+        "Film-Noir",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0041959",
+    "rating_count": 120337,
+    "filming_loc": "Austria",
+    "language": "English|German|Russian"
+}

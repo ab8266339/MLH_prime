@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Daniel Br\u00fchl",
+        "Chris Hemsworth",
+        "Olivia Wilde"
+    ],
+    "budget": "38000000",
+    "run_time": "123",
+    "writer": [
+        "Peter Morgan"
+    ],
+    "director": "Ron Howard",
+    "rank": "186",
+    "gross": "26903709",
+    "reviews_count": "486",
+    "film_name": "Rush",
+    "country": "UK|Germany|USA",
+    "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "History",
+        "Sport"
+    ],
+    "id": "tt1979320",
+    "rating_count": 335687,
+    "filming_loc": "Evolution Printing, Stanhope Road, Camberley, UK",
+    "language": "English|German|Italian|French|Spanish"
+}

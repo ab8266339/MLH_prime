@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Ralph Fiennes",
+        "F. Murray Abraham",
+        "Mathieu Amalric"
+    ],
+    "budget": "25000000",
+    "run_time": "99",
+    "writer": [
+        "Stefan Zweig",
+        "Wes Anderson"
+    ],
+    "director": "Wes Anderson",
+    "rank": "197",
+    "gross": "59073773",
+    "reviews_count": "663",
+    "film_name": "The Grand Budapest Hotel",
+    "country": "USA|Germany",
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+    ],
+    "id": "tt2278388",
+    "rating_count": 523069,
+    "filming_loc": "G\u00f6rlitz, Saxony, Germany",
+    "language": "English|French"
+}

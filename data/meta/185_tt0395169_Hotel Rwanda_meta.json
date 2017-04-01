@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Don Cheadle",
+        "Sophie Okonedo",
+        "Joaquin Phoenix"
+    ],
+    "budget": "17500000",
+    "run_time": "121",
+    "writer": [
+        "Keir Pearson",
+        "Terry George"
+    ],
+    "director": "Terry George",
+    "rank": "185",
+    "gross": "23472900",
+    "reviews_count": "626",
+    "film_name": "Hotel Rwanda",
+    "country": "UK|South Africa|Italy",
+    "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+    ],
+    "id": "tt0395169",
+    "rating_count": 278155,
+    "filming_loc": "Rwanda",
+    "language": "English|French"
+}

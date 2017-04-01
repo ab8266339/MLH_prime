@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Aamir Khan",
+        "Salman Khan",
+        "Raveena Tandon"
+    ],
+    "budget": null,
+    "run_time": "160",
+    "writer": [
+        "Rajkumar Santoshi",
+        "Rajkumar Santoshi"
+    ],
+    "director": "Rajkumar Santoshi",
+    "rank": "215",
+    "gross": null,
+    "reviews_count": "77",
+    "film_name": "Andaz Apna Apna",
+    "country": "India",
+    "genres": [
+        "Comedy",
+        "Family",
+        "Romance"
+    ],
+    "id": "tt0109117",
+    "rating_count": 37939,
+    "filming_loc": "Film City, Goregaon, Mumbai, Maharashtra, India",
+    "language": "Hindi"
+}

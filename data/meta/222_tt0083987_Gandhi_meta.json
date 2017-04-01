@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Ben Kingsley",
+        "John Gielgud",
+        "Candice Bergen"
+    ],
+    "budget": null,
+    "run_time": "191",
+    "writer": [
+        "John Briley"
+    ],
+    "director": "Richard Attenborough",
+    "rank": "222",
+    "gross": null,
+    "reviews_count": "263",
+    "film_name": "Gandhi",
+    "country": "UK|India|USA",
+    "genres": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "id": "tt0083987",
+    "rating_count": 181359,
+    "filming_loc": "Delhi, India",
+    "language": "English"
+}

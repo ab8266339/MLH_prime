@@ -1,0 +1,30 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Ben Affleck",
+        "Rosamund Pike",
+        "Neil Patrick Harris"
+    ],
+    "budget": "61000000",
+    "run_time": "149",
+    "writer": [
+        "Gillian Flynn",
+        "Gillian Flynn"
+    ],
+    "director": "David Fincher",
+    "rank": "180",
+    "gross": "167735396",
+    "reviews_count": "1161",
+    "film_name": "Gone Girl",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt2267998",
+    "rating_count": 626718,
+    "filming_loc": "Cape Girardeau, Missouri, USA",
+    "language": "English"
+}

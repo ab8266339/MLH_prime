@@ -1,0 +1,27 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Peter Sellers",
+        "George C. Scott",
+        "Sterling Hayden"
+    ],
+    "budget": null,
+    "run_time": "95",
+    "writer": [
+        "Stanley Kubrick",
+        "Terry Southern"
+    ],
+    "director": "Stanley Kubrick",
+    "rank": "53",
+    "gross": null,
+    "reviews_count": "859",
+    "film_name": "Dr Strangelove or- How I Learned to Stop Worrying and Love the Bomb",
+    "country": "USA|UK",
+    "genres": [
+        "Comedy"
+    ],
+    "id": "tt0057012",
+    "rating_count": 360835,
+    "filming_loc": "Okaloosa County, Florida, USA",
+    "language": "English|Russian"
+}

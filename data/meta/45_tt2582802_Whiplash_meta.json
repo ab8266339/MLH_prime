@@ -1,0 +1,27 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Melissa Benoist"
+    ],
+    "budget": "3300000",
+    "run_time": "107",
+    "writer": [
+        "Damien Chazelle"
+    ],
+    "director": "Damien Chazelle",
+    "rank": "45",
+    "gross": "13092000",
+    "reviews_count": "801",
+    "film_name": "Whiplash",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Music"
+    ],
+    "id": "tt2582802",
+    "rating_count": 466644,
+    "filming_loc": "Santa Clarita, California, USA",
+    "language": "English"
+}

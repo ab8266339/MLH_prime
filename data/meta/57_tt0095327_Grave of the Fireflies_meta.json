@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Tsutomu Tatsumi",
+        "Ayano Shiraishi",
+        "Akemi Yamaguchi"
+    ],
+    "budget": null,
+    "run_time": "89",
+    "writer": [
+        "Akiyuki Nosaka",
+        "Isao Takahata"
+    ],
+    "director": "Isao Takahata",
+    "rank": "57",
+    "gross": null,
+    "reviews_count": "521",
+    "film_name": "Grave of the Fireflies",
+    "country": "Japan",
+    "genres": [
+        "Animation",
+        "Drama",
+        "War"
+    ],
+    "id": "tt0095327",
+    "rating_count": 151527,
+    "filming_loc": null,
+    "language": "Japanese"
+}

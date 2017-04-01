@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+    ],
+    "budget": "19000000",
+    "run_time": "116",
+    "writer": [
+        "Robert Zemeckis",
+        "Bob Gale"
+    ],
+    "director": "Robert Zemeckis",
+    "rank": "44",
+    "gross": "210609762",
+    "reviews_count": "839",
+    "film_name": "Back to the Future",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "id": "tt0088763",
+    "rating_count": 782913,
+    "filming_loc": "Santa Clarita, California, USA",
+    "language": "English"
+}

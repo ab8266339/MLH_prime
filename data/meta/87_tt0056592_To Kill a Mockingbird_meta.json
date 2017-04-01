@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Gregory Peck",
+        "John Megna",
+        "Frank Overton"
+    ],
+    "budget": null,
+    "run_time": "129",
+    "writer": [
+        "Harper Lee",
+        "Horton Foote"
+    ],
+    "director": "Robert Mulligan",
+    "rank": "87",
+    "gross": null,
+    "reviews_count": "488",
+    "film_name": "To Kill a Mockingbird",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0056592",
+    "rating_count": 228915,
+    "filming_loc": "Courthouse Square, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",
+    "language": "English"
+}

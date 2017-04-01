@@ -1,0 +1,30 @@
+{
+    "rating": 9.0,
+    "stars": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+    ],
+    "budget": "185000000",
+    "run_time": "152",
+    "writer": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+    ],
+    "director": "Christopher Nolan",
+    "rank": "4",
+    "gross": "533316061",
+    "reviews_count": "4847",
+    "film_name": "The Dark Knight",
+    "country": "USA|UK",
+    "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0468569",
+    "rating_count": 1773564,
+    "filming_loc": "Times Square, Causeway Bay, Hong Kong",
+    "language": "English|Mandarin"
+}

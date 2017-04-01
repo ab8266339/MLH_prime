@@ -1,0 +1,31 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Billy Crystal",
+        "John Goodman",
+        "Mary Gibbs"
+    ],
+    "budget": "115000000",
+    "run_time": "92",
+    "writer": [
+        "Pete Docter",
+        "Jill Culton"
+    ],
+    "director": "Pete Docter",
+    "rank": "228",
+    "gross": "289907418",
+    "reviews_count": "600",
+    "film_name": "Monsters Inc",
+    "country": "USA",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "id": "tt0198781",
+    "rating_count": 626622,
+    "filming_loc": "Pixar Animation Studios - 1200 Park Avenue, Emeryville, California, USA",
+    "language": "English"
+}

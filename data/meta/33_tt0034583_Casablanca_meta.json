@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid"
+    ],
+    "budget": null,
+    "run_time": "102",
+    "writer": [
+        "Julius J. Epstein",
+        "Philip G. Epstein"
+    ],
+    "director": "Michael Curtiz",
+    "rank": "33",
+    "gross": null,
+    "reviews_count": "1138",
+    "film_name": "Casablanca",
+    "country": "USA",
+    "genres": [
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "id": "tt0034583",
+    "rating_count": 409046,
+    "filming_loc": "Hotel Monte Vista, Flagstaff, Arizona, USA",
+    "language": "English|French|German|Italian"
+}

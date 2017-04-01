@@ -1,0 +1,28 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Brahim Hadjadj",
+        "Jean Martin",
+        "Yacef Saadi"
+    ],
+    "budget": "800000",
+    "run_time": "121",
+    "writer": [
+        "Franco Solinas",
+        "Franco Solinas"
+    ],
+    "director": "Gillo Pontecorvo",
+    "rank": "242",
+    "gross": "55908",
+    "reviews_count": "245",
+    "film_name": "The Battle of Algiers",
+    "country": "Italy|Algeria",
+    "genres": [
+        "Drama",
+        "War"
+    ],
+    "id": "tt0058946",
+    "rating_count": 40229,
+    "filming_loc": "Algeria",
+    "language": "French|Arabic|English"
+}

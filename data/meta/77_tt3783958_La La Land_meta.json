@@ -1,0 +1,30 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "Rosemarie DeWitt"
+    ],
+    "budget": "30000000",
+    "run_time": "128",
+    "writer": [
+        "Damien Chazelle"
+    ],
+    "director": "Damien Chazelle",
+    "rank": "77",
+    "gross": "150229030",
+    "reviews_count": "932",
+    "film_name": "La La Land",
+    "country": "USA|Hong Kong",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Music",
+        "Musical",
+        "Romance"
+    ],
+    "id": "tt3783958",
+    "rating_count": 217015,
+    "filming_loc": "Los Angeles, California, USA",
+    "language": "English"
+}

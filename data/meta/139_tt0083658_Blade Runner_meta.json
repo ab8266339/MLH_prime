@@ -1,0 +1,28 @@
+{
+    "rating": 8.2,
+    "stars": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young"
+    ],
+    "budget": "28000000",
+    "run_time": "117",
+    "writer": [
+        "Hampton Fancher",
+        "David Webb Peoples"
+    ],
+    "director": "Ridley Scott",
+    "rank": "139",
+    "gross": "27000000",
+    "reviews_count": "1192",
+    "film_name": "Blade Runner",
+    "country": "USA|Hong Kong|UK",
+    "genres": [
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt0083658",
+    "rating_count": 488069,
+    "filming_loc": "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",
+    "language": "English|German|Cantonese|Japanese|Hungarian"
+}

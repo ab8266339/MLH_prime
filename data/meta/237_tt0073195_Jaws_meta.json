@@ -1,0 +1,29 @@
+{
+    "rating": 8.0,
+    "stars": [
+        "Roy Scheider",
+        "Robert Shaw",
+        "Richard Dreyfuss"
+    ],
+    "budget": "8000000",
+    "run_time": "124",
+    "writer": [
+        "Peter Benchley",
+        "Carl Gottlieb"
+    ],
+    "director": "Steven Spielberg",
+    "rank": "237",
+    "gross": "260000000",
+    "reviews_count": "984",
+    "film_name": "Jaws",
+    "country": "USA",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0073195",
+    "rating_count": 437634,
+    "filming_loc": "Martha's Vineyard, Massachusetts, USA",
+    "language": "English"
+}

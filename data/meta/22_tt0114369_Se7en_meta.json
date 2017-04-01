@@ -1,0 +1,29 @@
+{
+    "rating": 8.6,
+    "stars": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey"
+    ],
+    "budget": "33000000",
+    "run_time": "127",
+    "writer": [
+        "Andrew Kevin Walker"
+    ],
+    "director": "David Fincher",
+    "rank": "22",
+    "gross": "100125340",
+    "reviews_count": "1102",
+    "film_name": "Se7en",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0114369",
+    "rating_count": 1090395,
+    "filming_loc": "Pacific Electric Building, Los Angeles, California, USA",
+    "language": "English"
+}

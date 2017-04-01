@@ -1,0 +1,29 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Harrison Ford",
+        "Sean Connery",
+        "Alison Doody"
+    ],
+    "budget": "48000000",
+    "run_time": "127",
+    "writer": [
+        "Jeffrey Boam",
+        "George Lucas"
+    ],
+    "director": "Steven Spielberg",
+    "rank": "112",
+    "gross": "197171806",
+    "reviews_count": "487",
+    "film_name": "Indiana Jones and the Last Crusade",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "id": "tt0097576",
+    "rating_count": 546096,
+    "filming_loc": "Palazzi Barbaro, Grand Canal, Venice, Veneto, Italy",
+    "language": "English|German|Greek|Arabic"
+}

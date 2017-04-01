@@ -1,0 +1,29 @@
+{
+    "rating": 8.5,
+    "stars": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong"
+    ],
+    "budget": "102000000",
+    "run_time": "137",
+    "writer": [
+        "James Cameron",
+        "William Wisher Jr."
+    ],
+    "director": "James Cameron",
+    "rank": "43",
+    "gross": "204843350",
+    "reviews_count": "1001",
+    "film_name": "Terminator 2- Judgment Day",
+    "country": "USA|France",
+    "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "id": "tt0103064",
+    "rating_count": 785715,
+    "filming_loc": "Santa Clarita, California, USA",
+    "language": "English|Spanish"
+}

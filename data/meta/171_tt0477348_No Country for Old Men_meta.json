@@ -1,0 +1,29 @@
+{
+    "rating": 8.1,
+    "stars": [
+        "Tommy Lee Jones",
+        "Javier Bardem",
+        "Josh Brolin"
+    ],
+    "budget": "25000000",
+    "run_time": "122",
+    "writer": [
+        "Joel Coen",
+        "Ethan Coen"
+    ],
+    "director": "Ethan Coen",
+    "rank": "171",
+    "gross": "74273505",
+    "reviews_count": "1550",
+    "film_name": "No Country for Old Men",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "id": "tt0477348",
+    "rating_count": 653020,
+    "filming_loc": "Santa Fe, New Mexico, USA",
+    "language": "English|Spanish"
+}

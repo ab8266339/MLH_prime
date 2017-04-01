@@ -1,0 +1,28 @@
+{
+    "rating": 8.9,
+    "stars": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+    ],
+    "budget": "8000000",
+    "run_time": "154",
+    "writer": [
+        "Quentin Tarantino",
+        "Roger Avary"
+    ],
+    "director": "Quentin Tarantino",
+    "rank": "7",
+    "gross": "107930000",
+    "reviews_count": "2272",
+    "film_name": "Pulp Fiction",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "id": "tt0110912",
+    "rating_count": 1403167,
+    "filming_loc": "1435 Flower Street, Glendale, California, USA",
+    "language": "English|Spanish|French"
+}

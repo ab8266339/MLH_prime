@@ -1,0 +1,28 @@
+{
+    "rating": 8.0,
+    "stars": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Michael Biehn"
+    ],
+    "budget": "6400000",
+    "run_time": "107",
+    "writer": [
+        "James Cameron",
+        "Gale Anne Hurd"
+    ],
+    "director": "James Cameron",
+    "rank": "230",
+    "gross": "38400000",
+    "reviews_count": "700",
+    "film_name": "The Terminator",
+    "country": "UK|USA",
+    "genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "id": "tt0088247",
+    "rating_count": 634546,
+    "filming_loc": "Tunnel at Lower Grand &amp; West Gen Thad Kosciuszko Way, Los Angeles, California, USA",
+    "language": "English|Spanish"
+}

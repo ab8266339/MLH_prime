@@ -1,0 +1,31 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Fred MacMurray",
+        "Barbara Stanwyck",
+        "Edward G. Robinson"
+    ],
+    "budget": null,
+    "run_time": "107",
+    "writer": [
+        "Billy Wilder",
+        "Raymond Chandler"
+    ],
+    "director": "Billy Wilder",
+    "rank": "85",
+    "gross": null,
+    "reviews_count": "331",
+    "film_name": "Double Indemnity",
+    "country": "USA",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Film-Noir",
+        "Mystery",
+        "Thriller"
+    ],
+    "id": "tt0036775",
+    "rating_count": 104199,
+    "filming_loc": "1825 N. Kingsley Drive, Hollywood, Los Angeles, California, USA",
+    "language": "English"
+}

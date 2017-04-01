@@ -1,0 +1,30 @@
+{
+    "rating": 8.4,
+    "stars": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+    ],
+    "budget": "32500000",
+    "run_time": "131",
+    "writer": [
+        "Lawrence Kasdan",
+        "George Lucas"
+    ],
+    "director": "Richard Marquand",
+    "rank": "74",
+    "gross": "309125409",
+    "reviews_count": "662",
+    "film_name": "Star Wars- Episode VI - Return of the Jedi",
+    "country": "USA",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "id": "tt0086190",
+    "rating_count": 732454,
+    "filming_loc": "Castle Dome Peak, Yuma, Arizona, USA",
+    "language": "English"
+}

@@ -1,0 +1,28 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Brad Pitt",
+        "Diane Kruger",
+        "Eli Roth"
+    ],
+    "budget": "75000000",
+    "run_time": "153",
+    "writer": [
+        "Quentin Tarantino"
+    ],
+    "director": "Quentin Tarantino",
+    "rank": "98",
+    "gross": "120523073",
+    "reviews_count": "1548",
+    "film_name": "Inglourious Basterds",
+    "country": "USA|Germany",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+    ],
+    "id": "tt0361748",
+    "rating_count": 947269,
+    "filming_loc": "Brasserie La Renaissance, 112 rue Championnet, Paris 18, Paris, France",
+    "language": "English|German|French|Italian"
+}

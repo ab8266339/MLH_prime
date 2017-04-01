@@ -1,0 +1,27 @@
+{
+    "rating": 8.3,
+    "stars": [
+        "Jason Statham",
+        "Brad Pitt",
+        "Benicio Del Toro"
+    ],
+    "budget": "6000000",
+    "run_time": "104",
+    "writer": [
+        "Guy Ritchie"
+    ],
+    "director": "Guy Ritchie",
+    "rank": "99",
+    "gross": "30093107",
+    "reviews_count": "738",
+    "film_name": "Snatch",
+    "country": "UK|USA",
+    "genres": [
+        "Comedy",
+        "Crime"
+    ],
+    "id": "tt0208092",
+    "rating_count": 633390,
+    "filming_loc": "Bethnal Green Town Hall, Bethnal Green, London, England, UK",
+    "language": "English|Russian"
+}
