@@ -1,14 +1,15 @@
 from scrapy.contrib.spiders import CrawlSpider
 import os
-from pjslib.general import get_upper_folder_path
+
 
 import re
+import sys
 import json
 import re
 import collections
 from bs4 import BeautifulSoup
-
-
+sys.path.append('pjslib')
+from general import get_upper_folder_path
 
 from lxml.html.clean import clean_html
 
@@ -50,8 +51,8 @@ class IdSpider(CrawlSpider):
     imdb_250_file_path = os.path.join(parent_path, 'data', 'imdb_top250_id.txt')
     id_list = read_start_ids(imdb_250_file_path)
     url_list = convert_id_list_to_url_list(id_list)
-    start_urls = [url_list[-1]]
-    #start_urls = url_list
+    #start_urls = [url_list[-1]]
+    start_urls = url_list
 
     def parse(self, response):
         url = response.url
