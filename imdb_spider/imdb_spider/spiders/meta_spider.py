@@ -9,6 +9,9 @@ import re
 import collections
 from bs4 import BeautifulSoup
 
+
+
+
 cuurent_path = os.path.dirname(os.path.abspath(__file__))
 lib_path = os.path.join(cuurent_path, 'pjslib')
 sys.path.append(lib_path)

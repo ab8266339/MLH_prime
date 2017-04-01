@@ -9,9 +9,12 @@ import os
 import collections
 import json
 
+cuurent_path = os.path.dirname(os.path.abspath(__file__))
+lib_path = os.path.join(cuurent_path, 'pjslib')
+sys.path.append(lib_path)
 
-from pjslib.logger import logger1
-from pjslib.general import get_upper_folder_path
+from logger import logger1
+from general import get_upper_folder_path
 from scrapy.http import Request
 
 
@@ -76,6 +79,10 @@ def write_to_file(review_dict, file_name):
         json.dump(review_dict, f, indent = 4)
 
 
+def read_start_url():
+    parent_path = get_upper_folder_path(5)
+    #file_
+    #with open()
 
 
 #=======================================================================================================================

@@ -1,6 +1,12 @@
 from scrapy.contrib.spiders import CrawlSpider
 import os
-from pjslib.general import get_upper_folder_path
+import sys
+cuurent_path = os.path.dirname(os.path.abspath(__file__))
+lib_path = os.path.join(cuurent_path, 'pjslib')
+sys.path.append(lib_path)
+
+
+from general import get_upper_folder_path
 
 import re
 
