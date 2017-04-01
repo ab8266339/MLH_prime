@@ -8,7 +8,12 @@ import json
 import re
 import collections
 from bs4 import BeautifulSoup
-sys.path.append('pjslib')
+
+cuurent_path = os.path.dirname(os.path.abspath(__file__))
+lib_path = os.path.join(cuurent_path, 'pjslib')
+sys.path.append(lib_path)
+
+
 from general import get_upper_folder_path
 
 from lxml.html.clean import clean_html
