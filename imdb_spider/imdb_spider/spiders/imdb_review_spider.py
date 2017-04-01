@@ -103,7 +103,7 @@ class Imdb_Review_Spider(CrawlSpider):
         url = response.url
         # url: http://www.imdb.com/title/tt0092263/reviews?count=92&start=0
         file_name = re.findall(r'title\/([A-Za-z0-9]+)', url)[0]
-        file_name = file_name + '_' + title + '.json'
+        file_name = file_name + '_' + title + '_review' + '.json'
         #
         # filter the invalid div
         filtered_review_meta_data_list = []
