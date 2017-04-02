@@ -16,11 +16,15 @@ import matplotlib.pyplot as plt
 import os
 import re
 import sys
+import json
+import time
+import datetime
 import collections
 
 
 parent_folder = get_upper_folder_path(2)
 senti_folder = os.path.join(parent_folder, 'data', 'reviews_senti')
+senti_plot_folder = os.path.join(parent_folder, 'data', 'reviews_plot')
 senti_file_list = os.listdir(senti_folder)
 senti_file_list = [os.path.join(senti_folder, x) for x in senti_file_list]
 
@@ -30,11 +34,33 @@ id_name_dict = collections.defaultdict(lambda :[0,0,0,0])
 
 def plot_emotion_trend():
     for senti_file in senti_file_list:
-        with open(senti_file, 'r') as f:
-            f.write()
+        date_list = []
+        emotion_v_list = []
+        with open(senti_file, 'r', encoding = 'utf-8') as f:
+            film_id = re.findall(r'_(tt[0-9]+)_', f.name)[0]
+            film_name = re.findall(r'_tt[0-9]+_(.+?)_review', f.name)[0]
+            senti_dict = json.load(f)
+            for date, emotion_value in senti_dict.items():
+                if date == "#average_emoion#":
+                    continue
+                date_temp = time.strptime(date, '%Y-%m-%d')
+                date_o = datetime.datetime(*date_temp[:3])
+                date_list.append(date_o)
+                emotion_v_list.append(emotion_value)
 
-
-
+            date_emotion_list = list(zip(date_list, emotion_v_list))
+            date_emotion_list = sorted(date_emotion_list, key = lambda x:x[0])
+            date_list, emotion_v_list = zip(*date_emotion_list)
+            # plot
+            plot_file_name = film_id + '_' + film_name + '_plot.png'
+            output_file_path = os.path.join(senti_plot_folder, plot_file_name)
+            f, ax1 = plt.subplots(1, sharex=True, sharey=True)
+            ax1.plot(date_list, emotion_v_list, label = film_name)
+            ax1.set_title('Emotion Trend')
+            plt.setp([a.get_xticklabels() for a in f.axes[:-1]], visible=False)
+            plt.legend()
+            f.savefig(output_file_path)
+            plt.show()
 
 
 
@@ -91,4 +117,5 @@ def get_movie_rating_vs_emotion():
 
 # main
 
-get_movie_rating_vs_emotion()
+#get_movie_rating_vs_emotion()
+plot_emotion_trend()
