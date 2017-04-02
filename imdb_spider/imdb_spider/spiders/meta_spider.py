@@ -194,7 +194,7 @@ class IdSpider(CrawlSpider):
         # print ("country: ",country)
         # print ("filming_loc: ", filming_loc)
         # meta_file_name
-        meta_file_name = rank + '_' + str(id) + '_[r]' + str(reviews_count) + '_'  + film_name + '_meta.json'
+        meta_file_name = rank + '_' + str(rating) + '_' + str(id) + '_[r]' + str(reviews_count) + '_'  + film_name + '_meta.json'
         write_meta_data(meta_dict, meta_file_name)
 
 
