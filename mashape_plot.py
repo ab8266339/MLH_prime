@@ -28,7 +28,10 @@ meta_folder_path = os.path.join(parent_folder, 'data', 'meta')
 meta_file_list = os.listdir(meta_folder_path)
 id_name_dict = collections.defaultdict(lambda :[0,0,0,0])
 
-def plot_
+def plot_emotion_trend():
+    for senti_file in senti_file_list:
+        with open(senti_file, 'r') as f:
+            f.write()
 
 
 
