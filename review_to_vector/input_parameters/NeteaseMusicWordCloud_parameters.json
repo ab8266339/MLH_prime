@@ -1,0 +1,18 @@
+{
+    "wordcloud": {
+        "height": 768,
+        "width": 1024,
+        "max_words": 2000,
+        "margin": 1,
+        "font_path": "msyh.ttf",
+        "max_font_size": 78,
+        "scale" : 1,
+        "background_color": "white"
+    },
+    "general": {
+        "singer": "佐橋俊彦",
+        "song_id": "",
+        "output_file_name": "",
+        "mask_pic": ""
+    }
+}

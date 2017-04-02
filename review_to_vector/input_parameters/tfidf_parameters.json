@@ -1,0 +1,11 @@
+{
+    "inverted_index_folder": "inverted_index",
+    "inverted_index_name": "NeteaseMusic_inverted_index",
+    "id_to_singer_file_name": "id_to_singer_dict",
+    "singer_name": "",
+    "single_file_path": "",
+    "WRITE_SIMPLE_INDEX": true,
+    "WRITE_COMPLEX_INDEX": false,
+    "CUT_DOC": true,
+    "doc_cut_threshold": 5
+}
