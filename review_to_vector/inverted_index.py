@@ -8,6 +8,7 @@ import numpy as np
 from read_documents import ReadDocuments
 from ReadWriteIndex import WriteIndexToJson, ReadIndexFromJson
 from irsystem import IRSystem
+from logger import logger1
 
 
 class InvertedIndex(IRSystem):
@@ -60,8 +61,9 @@ class InvertedIndex(IRSystem):
         #normalize word and compute df, tf
         print("creating Inverted Index...")
         for doc in document_collection:
+            print ("doc_id: {}".format(doc.docid))
             # doc.docid = 0; doc.lines = []
-
+            # logger1.info("id:{}".format(doc.docid))
             self.D = self.D + 1
             # (1) normalized_words_list
             normalized_words_list = self.Normalized_words_list(doc)

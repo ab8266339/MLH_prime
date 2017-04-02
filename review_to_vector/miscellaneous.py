@@ -5,22 +5,10 @@ class Miscellaneous(object):
     
     @staticmethod
     def ConvertStrToBagOfWords(reg, reg_exclude, document_in_a_sentence):
-        document_word_list = []
+
         # find all words match regular expression
-        word_list_before_filter = re.findall(reg, document_in_a_sentence)
-        #exclude all invalid words
-        word_list = []
-        for i,word in enumerate(word_list_before_filter):
-            try:
-                find_excluded = re.findall(reg_exclude, word)
-            # if the reg is invalid, print the details 
-            except TypeError:
-                print ("error word: ", word)
-            #not found means the word should not be excluded and should be added to list
-            if not find_excluded:
-                word_list.append(word)
-            
-        document_word_list.extend(word_list)
+        document_word_list = re.findall(reg, document_in_a_sentence)
+
         return document_word_list
     
     @staticmethod

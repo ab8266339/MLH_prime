@@ -3,6 +3,7 @@ from FilterStopWords import FilterStopWords
 from stemming import stemming
 from nltk.stem import PorterStemmer
 import os
+from logger import logger1
 
 class IRSystem(object):
     
@@ -46,9 +47,13 @@ class IRSystem(object):
         
         # raw sentence_list
         sentence_list = document.lines
+        #logger1.info("sentence_list: {}".format(sentence_list))
         # convert document to bag of words list
-        document_in_a_sentence = ''.join(sentence_list)
-        document_word_list = Miscellaneous.ConvertStrToBagOfWords(self.word_reg, self.word_reg_exclude, document_in_a_sentence, )
+        document_in_a_sentence = '.'.join(sentence_list)
+
+        document_word_list = Miscellaneous.ConvertStrToBagOfWords(self.word_reg, self.word_reg_exclude, document_in_a_sentence)
+        #print("document_word_list: ", document_word_list)
+
         # normalize every word in document
         normalized_word_list = WordListNormalization(document_word_list)
         # return normalized_word_list

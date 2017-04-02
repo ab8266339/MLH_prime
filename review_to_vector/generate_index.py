@@ -48,7 +48,7 @@ def get_tf_idf_parameters(parameter_file_name = 'tfidf_parameters'):
 if __name__ == "__main__":
     # get all the parameters
     parent_folder = get_upper_folder_path(3)
-    code_parent_folder = get_upper_folder_path(2)
+
 
 
     inverted_index_name = 'imdb250_idf.json'
@@ -64,7 +64,7 @@ if __name__ == "__main__":
     term_selection_reg_exclude = r'^$'
     term_selection_reg = r'([\w\d]+)'
     invertedindex = InvertedIndex(cmdline_dict, term_selection_reg,term_selection_reg_exclude)
-    file_folder_path = os.path.join(code_parent_folder, 'data', 'reviews')
+    file_folder_path = os.path.join(parent_folder, 'data', 'reviews')
 
     corpus = ReadDocuments(file_folder_path)
 

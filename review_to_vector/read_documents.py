@@ -13,7 +13,10 @@ class ReadDocuments:
         file_path_list = os.listdir(self.file_folder_path)
         for file_path in file_path_list:
             file_path = os.path.join(self.file_folder_path, file_path)
-            film_id = re.findall(r'(tt[0-9]+)_', file_path)[0]
+            try:
+                film_id = re.findall(r'(tt[0-9]+)_', file_path)[0]
+            except IndexError:
+                continue
             with open(file_path, 'r', encoding = 'utf-8') as f:
                 reviews_dict = json.load(f)
                 # review_dict
