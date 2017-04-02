@@ -51,7 +51,7 @@ def filter_words_list(word_list):
 
 def write_movie_vector(movie_word_tfidf_dict, review_vector_path):
     #　csv
-    print ("review_vector_path--: ", review_vector_path)
+    #print ("review_vector_path--: ", review_vector_path)
     with open (review_vector_path, 'w', encoding = 'utf-8') as f:
         for word, tf_idf in sorted(movie_word_tfidf_dict.items(), key = lambda x:x[1], reverse = True):
             tf_idf = "{:.3f}".format(tf_idf)
@@ -83,14 +83,18 @@ for i, file_name in enumerate(review_file_name_list_temp):
 
 
 
-for review_file_path in review_file_name_list:
+for i, review_file_path in enumerate(review_file_name_list):
 
-    file_name = re.findall(r'reviews\\(.+?)_review', review_file_path)[0]
-    file_name = file_name + '_vector.json'
-    print ("parent_path: ", parent_path)
-    print ("file_name: ", file_name)
+    try:
+        file_name = re.findall(r'reviews\\(.+?)_review', review_file_path)[0]
+    except IndexError:
+        print ("review_file_path : {} cannot be parsed!!".format(review_file_path))
+        continue
+        
+    file_name = file_name + '_vector.csv'
+
+    
     review_vector_path = os.path.join(parent_path, 'data', 'reviews_vector', file_name)
-    print ("review_vector_path: ", review_vector_path)
 
     movie_word_f_dict = collections.defaultdict(lambda: 0)
     movie_word_tfidf_dict = collections.defaultdict(lambda: 0)
@@ -119,6 +123,8 @@ for review_file_path in review_file_name_list:
 
         # write
         write_movie_vector(movie_word_tfidf_dict, review_vector_path)
+        
+        print ("write {} successful!".format(i))
 
 
 
