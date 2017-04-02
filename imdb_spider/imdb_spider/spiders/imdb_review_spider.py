@@ -101,8 +101,8 @@ class Imdb_Review_Spider(CrawlSpider):
     name = "review"
     start_urls_temp = read_start_url()
 
-    start_urls = start_urls_temp
-    #start_urls = ['http://www.imdb.com/title/tt0056801/reviews?count=225&start=0']
+    #start_urls = start_urls_temp
+    start_urls = ['http://www.imdb.com/title/tt0087544/reviews?count=187&start=0']
     print ("start_urls: ", start_urls)
 
     def parse(self,response):
