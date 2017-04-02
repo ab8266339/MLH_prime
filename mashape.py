@@ -18,7 +18,25 @@ import sys
 import collections
 import json
 import re
+import pprint
+import getopt
+from watson_developer_cloud import ToneAnalyzerV3
 
+
+try:
+    opts, args = getopt.getopt(sys.argv[1:], 'n:')
+except getopt.GetoptError:
+    # opts: [('-n', '88')]
+    sys.exit(2)
+
+print ("opts: ", opts)
+
+
+for o,a in opts:
+    if o == '-n':
+        n = int(a)
+
+print ("n: ", n)
 
 
 def get_review_file_path_list():
@@ -32,7 +50,24 @@ def get_review_file_path_list():
     return review_file_path_list
 
 
+def invokeToneConversation(payload, maintainToneHistoryInContext=True):
+    # load the .env file containing your environment variables for the required
+    # services (conversation and tone)
 
+    # replace with your own tone analyzer credentials
+    tone_analyzer = ToneAnalyzerV3(
+        username=os.environ.get('TONE_ANALYZER_USERNAME') or '0480936e-64df-4a8f-a420-0c59d557555c',
+        password=os.environ.get('TONE_ANALYZER_PASSWORD') or 'SvzV7J6HjZDE',
+        version='2016-04-01')
+
+    # replace with your own workspace_id
+    workspace_id = os.environ.get('WORKSPACE_ID') or 'YOUR WORKSPACE ID'
+
+    tone = tone_analyzer.tone(text=payload)
+    tone_dict = tone['document_tone']['tone_categories'][0]['tones']
+    joy = tone_dict[3]['score']
+
+    return joy
 
 
 def get_senti_score(text_content):
@@ -52,48 +87,49 @@ def get_senti_score(text_content):
     response_dict = response.json()['probability']
     pos_value = response_dict['pos']
     #response_dict['emotion_value'] = response_dict['pos'] - response_dict['neg']
-
     #print ("response_dict: ", response_dict)
     return pos_value
 
 
 def get_review_sentiment_dict(review_file_path_list):
-    for i, file_path in enumerate(review_file_path_list):
-        print("=======================================")
-        print ("Analysing {} film!!!!!!!!!!!!".format(i))
-        file_date_dict = collections.defaultdict(lambda :[])
-        try:
-            with open(file_path, 'r', encoding = 'utf-8') as f:
-                file_dict = json.load(f)
-                for key, value_dict in file_dict.items():
-                    print("Analysing {} review...".format(key))
-                    date_str = value_dict['date']
-                    text_content = value_dict['content']
-                    pos_value = float("{:.3f}".format(get_senti_score(text_content)))
-                    file_date_dict[date_str].append(pos_value)
-        except PermissionError:
-            continue
-        # get the score
-        for date_str, value in file_date_dict.items():
-            file_date_dict[date_str] =  float(sum(value) / len(value))
+    file_path = review_file_path_list[n]
+    #for i, file_path in enumerate(review_file_path_list):
+    print("=======================================")
+    print ("Analysing {} film!!!!!!!!!!!!".format(n))
+    file_date_dict = collections.defaultdict(lambda :[])
+    try:
+        with open(file_path, 'r', encoding = 'utf-8') as f:
+            file_dict = json.load(f)
+            for key, value_dict in file_dict.items():
+                print("Analysing {} review...".format(key))
+                date_str = value_dict['date']
+                text_content = value_dict['content']
+                #pos_value = float("{:.3f}".format(get_senti_score(text_content)))
+                pos_value = float("{:.3f}".format(invokeToneConversation(text_content)))
+                file_date_dict[date_str].append(pos_value)
+    except PermissionError:
+        pass
+    # get the score
+    for date_str, value in file_date_dict.items():
+        file_date_dict[date_str] =  float(sum(value) / len(value))
 
 
 
-        average_emoion = float("{:.3f}".format(sum(list(file_date_dict.values())) / len(list(file_date_dict.values()))))
-        file_date_dict['#average_emoion#'] = average_emoion
+    average_emoion = float("{:.3f}".format(sum(list(file_date_dict.values())) / len(list(file_date_dict.values()))))
+    file_date_dict['#average_emoion#'] = average_emoion
 
-        # write to file
-        parent_folder = get_upper_folder_path(2)
-        #print ("file_path: ", file_path)
-        file_name = '[{}]_'.format(average_emoion) + re.findall(r'\\(tt.+?).json', file_path)[0] + '_emotion.json'
-        #print ("file_name: ", file_name)
-        output_file_name = file_name
-        reviews_senti_path = os.path.join(parent_folder, 'data', 'reviews_senti', output_file_name)
+    # write to file
+    parent_folder = get_upper_folder_path(2)
+    #print ("file_path: ", file_path)
+    file_name = '[{}]_'.format(average_emoion) + re.findall(r'\\(tt.+?).json', file_path)[0] + '_emotion.json'
+    #print ("file_name: ", file_name)
+    output_file_name = file_name
+    reviews_senti_path = os.path.join(parent_folder, 'data', 'reviews_senti', output_file_name)
 
-        with open(reviews_senti_path, 'w', encoding = 'utf-8') as f:
+    with open(reviews_senti_path, 'w', encoding = 'utf-8') as f:
 
-            json.dump(file_date_dict,f, indent=4)
-            print ("write success!")
+        json.dump(file_date_dict,f, indent=4)
+        print ("write success!")
 
 
 
